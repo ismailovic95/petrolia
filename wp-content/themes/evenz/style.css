@@ -1,0 +1,25 @@
+/*
+Theme Name: Evenz
+Theme URI: http://qantumthemes.xyz/
+Author: QantumThemes
+Author URI: https://themeforest.net/user/qantumthemes
+Description: Events WordPress theme
+Version: 1.9.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: evenz
+Domain Path: /languages/
+Tags: two-columns, right-sidebar
+*/
+
+/**
+ * ================================================================================================
+ *
+ *	INFO FOR DEVELOPERS:
+ *	The main css file is in ./css
+ *	Main CSS: 			./css/main.css
+ *	Main CSS minified:	./css/main-min.css
+ * 	It is not recommended to add CSS here, instead, use the child theme and add your styles to that.
+ *
+ * ================================================================================================
+ */

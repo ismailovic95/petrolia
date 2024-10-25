@@ -1,0 +1,324 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "t2gicons-power-nature";
+  src:url("fonts/t2gicons-power-nature.eot");
+  src:url("fonts/t2gicons-power-nature.eot?#iefix") format("embedded-opentype"),
+    url("fonts/t2gicons-power-nature.woff") format("woff"),
+    url("fonts/t2gicons-power-nature.ttf") format("truetype"),
+    url("fonts/t2gicons-power-nature.svg#t2gicons-power-nature") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[class^="t2gicon-power-"]:before,
+[class*=" t2gicon-power-"]:before {
+  font-family: "t2gicons-power-nature" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.t2gicon-power-air-angle:before {
+  content: "\61";
+}
+.t2gicon-power-air-arrows-drops:before {
+  content: "\62";
+}
+.t2gicon-power-air-arrows-range:before {
+  content: "\63";
+}
+.t2gicon-power-air-arrows-up:before {
+  content: "\64";
+}
+.t2gicon-power-air-celsius:before {
+  content: "\65";
+}
+.t2gicon-power-air-cold:before {
+  content: "\66";
+}
+.t2gicon-power-air-conditioner-1:before {
+  content: "\67";
+}
+.t2gicon-power-air-conditioner-2:before {
+  content: "\68";
+}
+.t2gicon-power-air-evaporate:before {
+  content: "\69";
+}
+.t2gicon-power-air-fahrenheit:before {
+  content: "\6a";
+}
+.t2gicon-power-air-fan:before {
+  content: "\6b";
+}
+.t2gicon-power-air-fan-active:before {
+  content: "\6c";
+}
+.t2gicon-power-air-flow:before {
+  content: "\6d";
+}
+.t2gicon-power-air-flow-2:before {
+  content: "\6e";
+}
+.t2gicon-power-air-gears:before {
+  content: "\6f";
+}
+.t2gicon-power-air-insulation-cold:before {
+  content: "\70";
+}
+.t2gicon-power-air-insulation-humidity:before {
+  content: "\71";
+}
+.t2gicon-power-air-insulation-warm:before {
+  content: "\72";
+}
+.t2gicon-power-air-insulation-wind:before {
+  content: "\73";
+}
+.t2gicon-power-air-layers:before {
+  content: "\74";
+}
+.t2gicon-power-air-leafe:before {
+  content: "\75";
+}
+.t2gicon-power-air-levels:before {
+  content: "\76";
+}
+.t2gicon-power-air-muscle-sweat:before {
+  content: "\77";
+}
+.t2gicon-power-air-night:before {
+  content: "\78";
+}
+.t2gicon-power-air-no-bacteria:before {
+  content: "\79";
+}
+.t2gicon-power-air-recycle:before {
+  content: "\7a";
+}
+.t2gicon-power-air-recycle-2:before {
+  content: "\41";
+}
+.t2gicon-power-air-soil:before {
+  content: "\42";
+}
+.t2gicon-power-air-sun:before {
+  content: "\43";
+}
+.t2gicon-power-air-sun-arrow-bounce:before {
+  content: "\44";
+}
+.t2gicon-power-air-sunflake:before {
+  content: "\45";
+}
+.t2gicon-power-air-texture:before {
+  content: "\46";
+}
+.t2gicon-power-air-thermometer:before {
+  content: "\47";
+}
+.t2gicon-power-air-thermometer-cold:before {
+  content: "\48";
+}
+.t2gicon-power-air-thermometer-variation:before {
+  content: "\49";
+}
+.t2gicon-power-air-thermometer-variation-2:before {
+  content: "\4a";
+}
+.t2gicon-power-air-thermometer-warm:before {
+  content: "\4b";
+}
+.t2gicon-power-air-thunders:before {
+  content: "\4c";
+}
+.t2gicon-power-air-waterdrops:before {
+  content: "\4d";
+}
+.t2gicon-power-ecology-car-recharge:before {
+  content: "\4e";
+}
+.t2gicon-power-ecology-factory:before {
+  content: "\4f";
+}
+.t2gicon-power-ecology-flower:before {
+  content: "\50";
+}
+.t2gicon-power-ecology-fuel:before {
+  content: "\51";
+}
+.t2gicon-power-ecology-global-warming:before {
+  content: "\52";
+}
+.t2gicon-power-ecology-hand-heart:before {
+  content: "\53";
+}
+.t2gicon-power-ecology-hand-plant:before {
+  content: "\54";
+}
+.t2gicon-power-ecology-hands-leaf:before {
+  content: "\55";
+}
+.t2gicon-power-ecology-heart-leaf:before {
+  content: "\56";
+}
+.t2gicon-power-ecology-house:before {
+  content: "\57";
+}
+.t2gicon-power-ecology-light-bulb-leaf:before {
+  content: "\58";
+}
+.t2gicon-power-ecology-nature:before {
+  content: "\59";
+}
+.t2gicon-power-ecology-oxygen:before {
+  content: "\5a";
+}
+.t2gicon-power-ecology-plug:before {
+  content: "\30";
+}
+.t2gicon-power-ecology-recycling:before {
+  content: "\31";
+}
+.t2gicon-power-ecology-recycling-garbage:before {
+  content: "\32";
+}
+.t2gicon-power-ecology-recycling-label:before {
+  content: "\33";
+}
+.t2gicon-power-ecology-recycling-water:before {
+  content: "\34";
+}
+.t2gicon-power-ecology-wind:before {
+  content: "\35";
+}
+.t2gicon-power-ecology-windmill:before {
+  content: "\36";
+}
+.t2gicon-power-energy-battery-100:before {
+  content: "\37";
+}
+.t2gicon-power-energy-battery-car:before {
+  content: "\38";
+}
+.t2gicon-power-energy-battery-charging:before {
+  content: "\39";
+}
+.t2gicon-power-energy-battery-check:before {
+  content: "\21";
+}
+.t2gicon-power-energy-battery-clock:before {
+  content: "\22";
+}
+.t2gicon-power-energy-battery-eco:before {
+  content: "\23";
+}
+.t2gicon-power-energy-battery-level:before {
+  content: "\24";
+}
+.t2gicon-power-energy-battery-low:before {
+  content: "\25";
+}
+.t2gicon-power-energy-battery-plug:before {
+  content: "\26";
+}
+.t2gicon-power-energy-battery-poles:before {
+  content: "\27";
+}
+.t2gicon-power-energy-battery-recycle:before {
+  content: "\28";
+}
+.t2gicon-power-energy-battery-refresh:before {
+  content: "\29";
+}
+.t2gicon-power-energy-battery-temperature:before {
+  content: "\2a";
+}
+.t2gicon-power-energy-battery-warning:before {
+  content: "\2b";
+}
+.t2gicon-power-energy-battery-x2:before {
+  content: "\2c";
+}
+.t2gicon-power-energy-car-battery:before {
+  content: "\2d";
+}
+.t2gicon-power-energy-car-energy:before {
+  content: "\2e";
+}
+.t2gicon-power-energy-flashing-thunder:before {
+  content: "\2f";
+}
+.t2gicon-power-energy-mobile-plug:before {
+  content: "\3a";
+}
+.t2gicon-power-energy-no-battery:before {
+  content: "\3b";
+}
+.t2gicon-power-weather-air-cloud:before {
+  content: "\3c";
+}
+.t2gicon-power-weather-air-snow:before {
+  content: "\3d";
+}
+.t2gicon-power-weather-air-sunset:before {
+  content: "\3e";
+}
+.t2gicon-power-weather-cloud-snow-storm:before {
+  content: "\3f";
+}
+.t2gicon-power-weather-cloud-sun:before {
+  content: "\40";
+}
+.t2gicon-power-weather-cloud-wind:before {
+  content: "\5b";
+}
+.t2gicon-power-weather-clouds:before {
+  content: "\5d";
+}
+.t2gicon-power-weather-cloudy:before {
+  content: "\5e";
+}
+.t2gicon-power-weather-night:before {
+  content: "\5f";
+}
+.t2gicon-power-weather-rain:before {
+  content: "\60";
+}
+.t2gicon-power-weather-rain-snow:before {
+  content: "\7b";
+}
+.t2gicon-power-weather-rainy:before {
+  content: "\7c";
+}
+.t2gicon-power-weather-snow:before {
+  content: "\7d";
+}
+.t2gicon-power-weather-snowy:before {
+  content: "\7e";
+}
+.t2gicon-power-weather-sun-rain:before {
+  content: "\5c";
+}
+.t2gicon-power-weather-sunny:before {
+  content: "\e000";
+}
+.t2gicon-power-weather-thermometer:before {
+  content: "\e001";
+}
+.t2gicon-power-weather-thunder:before {
+  content: "\e002";
+}
+.t2gicon-power-weather-tornado:before {
+  content: "\e003";
+}
+.t2gicon-power-weather-windy:before {
+  content: "\e004";
+}

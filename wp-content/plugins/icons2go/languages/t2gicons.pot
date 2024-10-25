@@ -1,0 +1,663 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Icons2Go WordPress "
+"Plugin\n"
+"POT-Creation-Date: "
+"2017-03-09 10:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Themes2Go "
+"<team@themes2go.xyz>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"1.8.9\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: inc/_t2gicons_modal_window.php:17
+msgid "Add icon"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:22
+msgid "Icon set"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:36
+msgid ""
+"[Activate in plugin's "
+"settings]"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:43
+msgid "[Disabled]"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:54
+msgid "Search in this set:"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:58
+msgid "NOTE:"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:58
+msgid ""
+"You can activate the "
+"disabled icon sets in "
+"Settings -> WPicons2Go"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:90
+#: inc/options_page/_options_page.php:42
+msgid "Settings"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:93
+#: inc/_t2gicons_vc_customsets.php:32
+msgid "Icon"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:95
+#: inc/t2gicons_visualcomposer.php:52
+msgid "Alignment"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:97
+#: inc/_t2gicons_modal_window.php:118
+#: inc/_t2gicons_modal_window.php:173
+#: inc/t2gicons_visualcomposer.php:56
+#: inc/t2gicons_visualcomposer.php:79
+#: inc/t2gicons_visualcomposer.php:127
+msgid "Default"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:98
+msgid "left"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:99
+msgid "right"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:100
+msgid "center"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:104
+#: inc/t2gicons_visualcomposer.php:65
+msgid "Font size"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:116
+#: inc/t2gicons_visualcomposer.php:75
+msgid "Color"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:119
+#: inc/_t2gicons_modal_window.php:174
+#: inc/t2gicons_visualcomposer.php:80
+#: inc/t2gicons_visualcomposer.php:128
+msgid "Red"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:120
+#: inc/_t2gicons_modal_window.php:175
+#: inc/t2gicons_visualcomposer.php:81
+#: inc/t2gicons_visualcomposer.php:129
+msgid "Pink"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:121
+#: inc/_t2gicons_modal_window.php:176
+#: inc/t2gicons_visualcomposer.php:82
+#: inc/t2gicons_visualcomposer.php:130
+msgid "Purple"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:122
+#: inc/_t2gicons_modal_window.php:177
+msgid "Deep Purple"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:123
+#: inc/_t2gicons_modal_window.php:178
+#: inc/t2gicons_visualcomposer.php:84
+#: inc/t2gicons_visualcomposer.php:132
+msgid "Indigo"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:124
+#: inc/_t2gicons_modal_window.php:179
+#: inc/t2gicons_visualcomposer.php:85
+#: inc/t2gicons_visualcomposer.php:133
+msgid "Blue"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:125
+#: inc/_t2gicons_modal_window.php:180
+msgid "Light blue"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:126
+#: inc/_t2gicons_modal_window.php:181
+#: inc/t2gicons_visualcomposer.php:87
+#: inc/t2gicons_visualcomposer.php:135
+msgid "Teal"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:127
+#: inc/_t2gicons_modal_window.php:182
+#: inc/t2gicons_visualcomposer.php:88
+#: inc/t2gicons_visualcomposer.php:136
+msgid "Green"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:128
+#: inc/_t2gicons_modal_window.php:183
+msgid "Light green"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:129
+#: inc/_t2gicons_modal_window.php:184
+#: inc/t2gicons_visualcomposer.php:90
+#: inc/t2gicons_visualcomposer.php:138
+msgid "Lime"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:130
+#: inc/_t2gicons_modal_window.php:185
+msgid "Yellow"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:131
+#: inc/_t2gicons_modal_window.php:186
+#: inc/t2gicons_visualcomposer.php:91
+#: inc/t2gicons_visualcomposer.php:139
+msgid "Amber"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:132
+#: inc/_t2gicons_modal_window.php:187
+#: inc/t2gicons_visualcomposer.php:92
+#: inc/t2gicons_visualcomposer.php:140
+msgid "Orange"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:133
+#: inc/_t2gicons_modal_window.php:188
+#: inc/t2gicons_visualcomposer.php:93
+#: inc/t2gicons_visualcomposer.php:141
+msgid "Deep-orange"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:134
+#: inc/_t2gicons_modal_window.php:189
+#: inc/t2gicons_visualcomposer.php:94
+#: inc/t2gicons_visualcomposer.php:142
+msgid "Brown"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:135
+#: inc/_t2gicons_modal_window.php:190
+#: inc/t2gicons_visualcomposer.php:95
+#: inc/t2gicons_visualcomposer.php:143
+msgid "Grey"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:136
+#: inc/_t2gicons_modal_window.php:191
+msgid "Blue grey"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:137
+#: inc/_t2gicons_modal_window.php:192
+#: inc/t2gicons_visualcomposer.php:97
+#: inc/t2gicons_visualcomposer.php:145
+msgid "Black"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:138
+#: inc/_t2gicons_modal_window.php:193
+#: inc/t2gicons_visualcomposer.php:98
+#: inc/t2gicons_visualcomposer.php:146
+msgid "White"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:143
+msgid "Background"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:147
+#: inc/t2gicons_visualcomposer.php:109
+msgid "No background"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:148
+#: inc/t2gicons_visualcomposer.php:110
+msgid "Circle"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:149
+#: inc/t2gicons_visualcomposer.php:111
+msgid "Square"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:150
+#: inc/t2gicons_visualcomposer.php:112
+msgid "Rounded square"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:151
+#: inc/t2gicons_visualcomposer.php:113
+msgid "Rhombus"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:152
+#: inc/t2gicons_visualcomposer.php:114
+msgid "Circle border"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:153
+#: inc/t2gicons_visualcomposer.php:115
+msgid "Square border"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:154
+#: inc/t2gicons_visualcomposer.php:116
+msgid ""
+"Rounded square border"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:155
+#: inc/t2gicons_visualcomposer.php:117
+msgid "Rhombus border"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:159
+msgid "Size"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:171
+#: inc/options_page/_options_shortcode_example.php:35
+#: inc/t2gicons_visualcomposer.php:123
+msgid "Background color"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:198
+#: inc/t2gicons_visualcomposer.php:162
+msgid "Link"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:200
+msgid "Add your URL"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:202
+msgid "Open link in:"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:205
+#: inc/t2gicons_visualcomposer.php:172
+msgid "New window"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:209
+#: inc/t2gicons_visualcomposer.php:171
+msgid "Same window"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:216
+#: inc/options_page/_t2gicons_archive.php:109
+msgid "Preview"
+msgstr ""
+
+#: inc/_t2gicons_modal_window.php:227
+msgid "ADD ICON"
+msgstr ""
+
+#: inc/_t2gicons_vc_customsets.php:46
+msgid ""
+"Select icon from library."
+msgstr ""
+
+#: inc/frontend/_t2gicons_showcase.php:26
+#: inc/frontend/_t2gicons_showcase.php:28
+msgid "icon sets"
+msgstr ""
+
+#: inc/frontend/_t2gicons_showcase.php:26
+#: inc/frontend/_t2gicons_showcase.php:36
+#: inc/frontend/_t2gicons_showcase.php:47
+msgid "icons"
+msgstr ""
+
+#: inc/frontend/_t2gicons_showcase.php:56
+#: inc/frontend/_t2gicons_showcase.php:137
+msgid "Top"
+msgstr ""
+
+#: inc/frontend/_t2gicons_showcase.php:99
+msgid "icon styles"
+msgstr ""
+
+#: inc/options_page/_options_manual.php:9
+msgid "Quick manual"
+msgstr ""
+
+#: inc/options_page/_options_manual.php:14
+msgid "Important"
+msgstr ""
+
+#: inc/options_page/_options_manual.php:19
+msgid ""
+"How to activate icon sets"
+msgstr ""
+
+#: inc/options_page/_options_manual.php:26
+msgid "Icons bookmarking"
+msgstr ""
+
+#: inc/options_page/_options_manual.php:35
+msgid ""
+"Adding icons to your "
+"pages"
+msgstr ""
+
+#: inc/options_page/_options_manual.php:44
+msgid ""
+"Adding icons with Visual "
+"Composer"
+msgstr ""
+
+#: inc/options_page/_options_page.php:31
+msgid ""
+"You do not have "
+"sufficient permissions "
+"to access this page."
+msgstr ""
+
+#: inc/options_page/_options_page.php:44
+msgid "Manual"
+msgstr ""
+
+#: inc/options_page/_options_page.php:45
+#: inc/options_page/_options_shortcode_example.php:8
+msgid "Shortcode settings"
+msgstr ""
+
+#: inc/options_page/_options_page.php:54
+msgid "Scroll to top"
+msgstr ""
+
+#: inc/options_page/_options_settings.php:12
+msgid ""
+"Tip: click on any icon "
+"to bookmark this icon "
+"set and remember which "
+"one you like. Bookmarks "
+"are not stored. Activate "
+"a set to make it "
+"available in the editor "
+"and frontend."
+msgstr ""
+
+#: inc/options_page/_options_settings.php:29
+msgid "Filter"
+msgstr ""
+
+#: inc/options_page/_options_settings.php:32
+msgid "Search icon:"
+msgstr ""
+
+#: inc/options_page/_options_settings.php:35
+msgid "Navigate sets"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:10
+msgid "Shortcode structure"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:14
+msgid "Parameter"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:15
+msgid "Usage"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:16
+msgid "Possible values"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:20
+msgid "Css icon class"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:21
+msgid ""
+"Check class names in "
+"hover or use the Visual "
+"Composer or TinyMCE icon "
+"generator."
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:25
+msgid ""
+"Background shape size "
+"(fixed values)"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:30
+msgid ""
+"Symbol size (fixed "
+"values)"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:40
+msgid "Icon color"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:45
+#: inc/t2gicons_visualcomposer.php:105
+#: inc/t2gicons_visualcomposer.php:119
+msgid "Background shape"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:50
+#: inc/t2gicons_visualcomposer.php:61
+msgid "Icon alignment"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:55
+msgid "Link URL"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:60
+msgid ""
+"Target for your link"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:65
+msgid "Icon set name"
+msgstr ""
+
+#: inc/options_page/_options_shortcode_example.php:66
+msgid ""
+"Auto-generated by Visual "
+"composer, not needed for "
+"manual shortcode use"
+msgstr ""
+
+#: inc/options_page/_t2gicons_archive.php:41
+#: inc/options_page/_t2gicons_archive.php:63
+msgid ""
+"Impossible to activate "
+"the font. You may need "
+"admin permissions."
+msgstr ""
+
+#: inc/options_page/_t2gicons_archive.php:50
+msgid "Font actived."
+msgstr ""
+
+#: inc/options_page/_t2gicons_archive.php:71
+msgid "Font deactived."
+msgstr ""
+
+#: inc/options_page/_t2gicons_archive.php:82
+msgid ""
+"To deactivate a font "
+"set, check the security "
+"checkbox."
+msgstr ""
+
+#: inc/options_page/_t2gicons_archive.php:100
+msgid "Deactivate"
+msgstr ""
+
+#: inc/options_page/_t2gicons_archive.php:103
+msgid "Deactivate "
+msgstr ""
+
+#: inc/options_page/_t2gicons_archive.php:109
+msgid "Activate set"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:16
+msgid "Icons2go"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:19
+msgid "1000+ Premium Icons"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:20
+msgid "Content"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:24
+msgid "Icon library"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:30
+msgid ""
+"Select icon library."
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:57
+msgid "Left"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:58
+msgid "Right"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:59
+msgid "Center"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:71
+msgid "Icon font size"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:83
+#: inc/t2gicons_visualcomposer.php:131
+msgid "Deep purple"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:86
+#: inc/t2gicons_visualcomposer.php:134
+msgid "Light-blue"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:89
+#: inc/t2gicons_visualcomposer.php:137
+msgid "Light-green"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:96
+#: inc/t2gicons_visualcomposer.php:144
+msgid "Blue-grey"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:101
+#: inc/t2gicons_visualcomposer.php:148
+msgid "Icon text color"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:152
+msgid "Background size"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:158
+msgid ""
+"Background shape size"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:163
+msgid ""
+"Add an URL to make the "
+"icon clickable"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:168
+msgid "Link target"
+msgstr ""
+
+#: inc/t2gicons_visualcomposer.php:174
+msgid ""
+"Choose where to open the "
+"link"
+msgstr ""
+
+#: t2gicons.php:53
+msgid ""
+"Icons2Go Plugin Notice:"
+msgstr ""
+
+#: t2gicons.php:54
+msgid ""
+"You have no active icon "
+"sets. To activate an "
+"icon set now, go to"
+msgstr ""
+
+#: t2gicons.php:55
+msgid "Icons2Go Settings"
+msgstr ""

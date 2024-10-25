@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "t2gicons-travel";
+  src:url("fonts/t2gicons-travel.eot");
+  src:url("fonts/t2gicons-travel.eot?#iefix") format("embedded-opentype"),
+    url("fonts/t2gicons-travel.woff") format("woff"),
+    url("fonts/t2gicons-travel.ttf") format("truetype"),
+    url("fonts/t2gicons-travel.svg#t2gicons-travel") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+[class*="t2gicon-travel-"]{
+  font-family: "t2gicons-travel" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="t2gicon-travel-"]:before,
+[class*=" t2gicon-travel-"]:before {
+  font-family: "t2gicons-travel" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.t2gicon-travel-routing-dashed-route:before {
+  content: "\61";
+}
+.t2gicon-travel-routing-gps:before {
+  content: "\62";
+}
+.t2gicon-travel-routing-map:before {
+  content: "\63";
+}
+.t2gicon-travel-routing-pin:before {
+  content: "\64";
+}
+.t2gicon-travel-routing-pin-arrow:before {
+  content: "\65";
+}
+.t2gicon-travel-routing-pin-map:before {
+  content: "\66";
+}
+.t2gicon-travel-routing-pin-map-2:before {
+  content: "\67";
+}
+.t2gicon-travel-routing-pin-refresh:before {
+  content: "\68";
+}
+.t2gicon-travel-routing-pin-road:before {
+  content: "\69";
+}
+.t2gicon-travel-routing-pin-road-2:before {
+  content: "\6a";
+}
+.t2gicon-travel-routing-pin-route:before {
+  content: "\6b";
+}
+.t2gicon-travel-routing-pin-route-2:before {
+  content: "\6c";
+}
+.t2gicon-travel-routing-pin-route-dashed:before {
+  content: "\6d";
+}
+.t2gicon-travel-routing-pins:before {
+  content: "\6e";
+}
+.t2gicon-travel-routing-pins-2:before {
+  content: "\6f";
+}
+.t2gicon-travel-routing-pins-route:before {
+  content: "\70";
+}
+.t2gicon-travel-routing-route-ab:before {
+  content: "\71";
+}
+.t2gicon-travel-routing-route-ab-2:before {
+  content: "\72";
+}
+.t2gicon-travel-routing-route-car:before {
+  content: "\73";
+}
+.t2gicon-travel-routing-steps:before {
+  content: "\74";
+}
+.t2gicon-travel-transport-airplane:before {
+  content: "\75";
+}
+.t2gicon-travel-transport-airplane-2:before {
+  content: "\76";
+}
+.t2gicon-travel-transport-boat:before {
+  content: "\77";
+}
+.t2gicon-travel-transport-boat-2:before {
+  content: "\78";
+}
+.t2gicon-travel-transport-bus:before {
+  content: "\79";
+}
+.t2gicon-travel-transport-bus-2:before {
+  content: "\7a";
+}
+.t2gicon-travel-transport-bus-3:before {
+  content: "\41";
+}
+.t2gicon-travel-transport-bus-4:before {
+  content: "\42";
+}
+.t2gicon-travel-transport-busstop:before {
+  content: "\43";
+}
+.t2gicon-travel-transport-bycicle:before {
+  content: "\44";
+}
+.t2gicon-travel-transport-cablecar:before {
+  content: "\45";
+}
+.t2gicon-travel-transport-car:before {
+  content: "\46";
+}
+.t2gicon-travel-transport-station:before {
+  content: "\47";
+}
+.t2gicon-travel-transport-subway:before {
+  content: "\48";
+}
+.t2gicon-travel-transport-taxi:before {
+  content: "\49";
+}
+.t2gicon-travel-transport-train:before {
+  content: "\4a";
+}
+.t2gicon-travel-transport-train-3:before {
+  content: "\4b";
+}
+.t2gicon-travel-transport-train-4:before {
+  content: "\4c";
+}
+.t2gicon-travel-transport-train-5:before {
+  content: "\4d";
+}
+.t2gicon-travel-transport-tram:before {
+  content: "\4e";
+}

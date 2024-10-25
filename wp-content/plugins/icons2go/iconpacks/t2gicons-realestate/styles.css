@@ -1,0 +1,145 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "t2gicons-realestate";
+  src:url("fonts/t2gicons-realestate.eot");
+  src:url("fonts/t2gicons-realestate.eot?#iefix") format("embedded-opentype"),
+    url("fonts/t2gicons-realestate.woff") format("woff"),
+    url("fonts/t2gicons-realestate.ttf") format("truetype"),
+    url("fonts/t2gicons-realestate.svg#t2gicons-realestate") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+[class^="t2gicon-realestate-"]:before,
+[class*=" t2gicon-realestate-"]:before {
+  font-family: "t2gicons-realestate" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.t2gicon-realestate-influence-dust:before {
+  content: "\61";
+}
+.t2gicon-realestate-influence-fire-warning:before {
+  content: "\62";
+}
+.t2gicon-realestate-influence-flow:before {
+  content: "\63";
+}
+.t2gicon-realestate-influence-gauge:before {
+  content: "\64";
+}
+.t2gicon-realestate-influence-hammer:before {
+  content: "\65";
+}
+.t2gicon-realestate-influence-keys-skratch:before {
+  content: "\66";
+}
+.t2gicon-realestate-influence-rain:before {
+  content: "\67";
+}
+.t2gicon-realestate-influence-shield:before {
+  content: "\68";
+}
+.t2gicon-realestate-influence-stain:before {
+  content: "\69";
+}
+.t2gicon-realestate-influence-swow-dust-cloud:before {
+  content: "\6a";
+}
+.t2gicon-realestate-influence-swow-thunder:before {
+  content: "\6b";
+}
+.t2gicon-realestate-influence-swow-vibrations:before {
+  content: "\6c";
+}
+.t2gicon-realestate-influence-swow-warning:before {
+  content: "\6d";
+}
+.t2gicon-realestate-influence-swow-water-drop:before {
+  content: "\6e";
+}
+.t2gicon-realestate-influence-temperature:before {
+  content: "\6f";
+}
+.t2gicon-realestate-influence-trees:before {
+  content: "\70";
+}
+.t2gicon-realestate-influence-uv-rays:before {
+  content: "\71";
+}
+.t2gicon-realestate-influence-warning:before {
+  content: "\72";
+}
+.t2gicon-realestate-influence-water:before {
+  content: "\73";
+}
+.t2gicon-realestate-influence-weight:before {
+  content: "\74";
+}
+.t2gicon-realestate-area:before {
+  content: "\75";
+}
+.t2gicon-realestate-bath-tube:before {
+  content: "\76";
+}
+.t2gicon-realestate-bed:before {
+  content: "\77";
+}
+.t2gicon-realestate-bell:before {
+  content: "\78";
+}
+.t2gicon-realestate-building:before {
+  content: "\79";
+}
+.t2gicon-realestate-car-park:before {
+  content: "\7a";
+}
+.t2gicon-realestate-cutlery:before {
+  content: "\41";
+}
+.t2gicon-realestate-depot:before {
+  content: "\42";
+}
+.t2gicon-realestate-elevator:before {
+  content: "\43";
+}
+.t2gicon-realestate-floor:before {
+  content: "\44";
+}
+.t2gicon-realestate-house:before {
+  content: "\45";
+}
+.t2gicon-realestate-house-hand:before {
+  content: "\46";
+}
+.t2gicon-realestate-house-search:before {
+  content: "\47";
+}
+.t2gicon-realestate-keys:before {
+  content: "\48";
+}
+.t2gicon-realestate-location:before {
+  content: "\49";
+}
+.t2gicon-realestate-plant:before {
+  content: "\4a";
+}
+.t2gicon-realestate-pool:before {
+  content: "\4b";
+}
+.t2gicon-realestate-rent:before {
+  content: "\4c";
+}
+.t2gicon-realestate-sale:before {
+  content: "\4d";
+}
+.t2gicon-realestate-washing-machine:before {
+  content: "\4e";
+}

@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://petrolia-local.com
+Data file = T:\Docker-projects\petrolia\app\public/wp-content/uploads/2024/10/demo-content-import-file_2024-10-25__13-10-01.xml
+Widget file = T:\Docker-projects\petrolia\app\public/wp-content/uploads/2024/10/demo-widgets-import-file_2024-10-25__13-10-01.json
+Customizer file = T:\Docker-projects\petrolia\app\public/wp-content/uploads/2024/10/demo-customizer-import-file_2024-10-25__13-10-01.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - Search in site - Imported
+Archives Cards Widget - Top Voted - Imported
+Post List Widget - Top readings - Imported
+Categories - Categories - Imported
+Tag Cloud - Read by tag - Imported
+
+Off canvas Sidebar : 
+
+Archives Cards Widget - Top reading - Imported
+
+Event Sidebar : 
+
+Events widget - Upcoming event - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

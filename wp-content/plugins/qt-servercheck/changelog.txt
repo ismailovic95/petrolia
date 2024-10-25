@@ -1,0 +1,12 @@
+2.0 [2020 December 07]
+[x] Added modules check
+
+1.0.3 [2019 July 04]
+[x] Now connected to the proxy
+[x] Updated messages
+
+1.0.2
+[x] Now using the proxy to check
+
+1.0.1
+[x] Changed wp_remote_post to wp_remote_get for first test

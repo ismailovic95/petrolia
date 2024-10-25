@@ -1,0 +1,37 @@
+.qt-servercheck {
+  padding: 5px 20px;
+  font-size: 13px;
+  margin: 0;
+  max-width: 600px;
+}
+.qt-servercheck h3 {
+  font-size: 15px;
+}
+.qt-servercheck__table {
+  background: #fff;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.qt-servercheck__table td, .qt-servercheck__table th {
+  padding: 0px 8px;
+  border-bottom: 1px solid #ededed;
+  text-align: left;
+  font-size: 10px;
+}
+.qt-servercheck__fail {
+  color: red;
+}
+.qt-servercheck__success {
+  color: green;
+}
+.qt-servercheck__test {
+  padding: 10px;
+  background: white;
+  margin-bottom: 20px;
+}
+.qt-servercheck__test p {
+  margin: 0 0 10px 0;
+}
+.qt-servercheck__test__failed {
+  border-left: 4px solid red;
+}

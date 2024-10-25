@@ -1,0 +1,315 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "t2gicons-entertainment";
+  src:url("fonts/t2gicons-entertainment.eot");
+  src:url("fonts/t2gicons-entertainment.eot?#iefix") format("embedded-opentype"),
+    url("fonts/t2gicons-entertainment.woff") format("woff"),
+    url("fonts/t2gicons-entertainment.ttf") format("truetype"),
+    url("fonts/t2gicons-entertainment.svg#t2gicons-entertainment") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[class^="t2gicon-entertainment-"]:before,
+[class*=" t2gicon-entertainment-"]:before {
+  font-family: "t2gicons-entertainment" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.t2gicon-entertainment-3d:before {
+  content: "\61";
+}
+.t2gicon-entertainment-3dglasses:before {
+  content: "\62";
+}
+.t2gicon-entertainment-4k:before {
+  content: "\63";
+}
+.t2gicon-entertainment-4k-tv:before {
+  content: "\64";
+}
+.t2gicon-entertainment-360:before {
+  content: "\65";
+}
+.t2gicon-entertainment-360-1:before {
+  content: "\66";
+}
+.t2gicon-entertainment-360-2:before {
+  content: "\67";
+}
+.t2gicon-entertainment-360-3:before {
+  content: "\68";
+}
+.t2gicon-entertainment-360-4:before {
+  content: "\69";
+}
+.t2gicon-entertainment-arrows:before {
+  content: "\6a";
+}
+.t2gicon-entertainment-ball:before {
+  content: "\6b";
+}
+.t2gicon-entertainment-balloons:before {
+  content: "\6c";
+}
+.t2gicon-entertainment-barbecue:before {
+  content: "\6d";
+}
+.t2gicon-entertainment-calendar:before {
+  content: "\6e";
+}
+.t2gicon-entertainment-calendar-2:before {
+  content: "\6f";
+}
+.t2gicon-entertainment-camera:before {
+  content: "\70";
+}
+.t2gicon-entertainment-camera-rotation:before {
+  content: "\71";
+}
+.t2gicon-entertainment-canvas:before {
+  content: "\72";
+}
+.t2gicon-entertainment-canvas-2:before {
+  content: "\73";
+}
+.t2gicon-entertainment-cards:before {
+  content: "\74";
+}
+.t2gicon-entertainment-chair:before {
+  content: "\75";
+}
+.t2gicon-entertainment-chef:before {
+  content: "\76";
+}
+.t2gicon-entertainment-ciak:before {
+  content: "\77";
+}
+.t2gicon-entertainment-cinema:before {
+  content: "\78";
+}
+.t2gicon-entertainment-circus:before {
+  content: "\79";
+}
+.t2gicon-entertainment-cube-rotation:before {
+  content: "\7a";
+}
+.t2gicon-entertainment-dj:before {
+  content: "\41";
+}
+.t2gicon-entertainment-external-storage:before {
+  content: "\42";
+}
+.t2gicon-entertainment-external-wifi:before {
+  content: "\43";
+}
+.t2gicon-entertainment-film:before {
+  content: "\44";
+}
+.t2gicon-entertainment-film-can:before {
+  content: "\45";
+}
+.t2gicon-entertainment-film-play:before {
+  content: "\46";
+}
+.t2gicon-entertainment-fire:before {
+  content: "\47";
+}
+.t2gicon-entertainment-garland:before {
+  content: "\48";
+}
+.t2gicon-entertainment-glasses:before {
+  content: "\49";
+}
+.t2gicon-entertainment-guitar:before {
+  content: "\4a";
+}
+.t2gicon-entertainment-hd:before {
+  content: "\4b";
+}
+.t2gicon-entertainment-honor:before {
+  content: "\4c";
+}
+.t2gicon-entertainment-magic:before {
+  content: "\4d";
+}
+.t2gicon-entertainment-masks:before {
+  content: "\4e";
+}
+.t2gicon-entertainment-mobile-rotate:before {
+  content: "\4f";
+}
+.t2gicon-entertainment-mobileplus:before {
+  content: "\50";
+}
+.t2gicon-entertainment-monitor:before {
+  content: "\51";
+}
+.t2gicon-entertainment-monitor-click:before {
+  content: "\52";
+}
+.t2gicon-entertainment-monitor-hand:before {
+  content: "\53";
+}
+.t2gicon-entertainment-monitor-recommended:before {
+  content: "\54";
+}
+.t2gicon-entertainment-monitor-wifi:before {
+  content: "\55";
+}
+.t2gicon-entertainment-museum:before {
+  content: "\56";
+}
+.t2gicon-entertainment-museum-2:before {
+  content: "\57";
+}
+.t2gicon-entertainment-party:before {
+  content: "\58";
+}
+.t2gicon-entertainment-picnic:before {
+  content: "\59";
+}
+.t2gicon-entertainment-play:before {
+  content: "\5a";
+}
+.t2gicon-entertainment-play-2:before {
+  content: "\30";
+}
+.t2gicon-entertainment-player-video:before {
+  content: "\31";
+}
+.t2gicon-entertainment-plug:before {
+  content: "\32";
+}
+.t2gicon-entertainment-plug-2:before {
+  content: "\33";
+}
+.t2gicon-entertainment-popcorn:before {
+  content: "\34";
+}
+.t2gicon-entertainment-prize:before {
+  content: "\35";
+}
+.t2gicon-entertainment-projector:before {
+  content: "\36";
+}
+.t2gicon-entertainment-rec:before {
+  content: "\37";
+}
+.t2gicon-entertainment-remote-controller:before {
+  content: "\38";
+}
+.t2gicon-entertainment-rotation:before {
+  content: "\39";
+}
+.t2gicon-entertainment-sat:before {
+  content: "\21";
+}
+.t2gicon-entertainment-seat:before {
+  content: "\22";
+}
+.t2gicon-entertainment-seat-2:before {
+  content: "\23";
+}
+.t2gicon-entertainment-shoe:before {
+  content: "\24";
+}
+.t2gicon-entertainment-speaker:before {
+  content: "\25";
+}
+.t2gicon-entertainment-tickets:before {
+  content: "\26";
+}
+.t2gicon-entertainment-tv:before {
+  content: "\27";
+}
+.t2gicon-entertainment-tv-2svg:before {
+  content: "\28";
+}
+.t2gicon-entertainment-tv-list:before {
+  content: "\29";
+}
+.t2gicon-entertainment-vr-1:before {
+  content: "\2a";
+}
+.t2gicon-entertainment-vr-2:before {
+  content: "\2b";
+}
+.t2gicon-entertainment-vr-3:before {
+  content: "\2c";
+}
+.t2gicon-entertainment-vr-4:before {
+  content: "\2d";
+}
+.t2gicon-entertainment-vr-5:before {
+  content: "\2e";
+}
+.t2gicon-entertainment-fantasy-arch:before {
+  content: "\2f";
+}
+.t2gicon-entertainment-fantasy-axe:before {
+  content: "\3a";
+}
+.t2gicon-entertainment-fantasy-book:before {
+  content: "\3b";
+}
+.t2gicon-entertainment-fantasy-castle:before {
+  content: "\3c";
+}
+.t2gicon-entertainment-fantasy-coins:before {
+  content: "\3d";
+}
+.t2gicon-entertainment-fantasy-crown:before {
+  content: "\3e";
+}
+.t2gicon-entertainment-fantasy-diamonds:before {
+  content: "\3f";
+}
+.t2gicon-entertainment-fantasy-fireball:before {
+  content: "\40";
+}
+.t2gicon-entertainment-fantasy-horse:before {
+  content: "\5b";
+}
+.t2gicon-entertainment-fantasy-ink:before {
+  content: "\5d";
+}
+.t2gicon-entertainment-fantasy-key:before {
+  content: "\5e";
+}
+.t2gicon-entertainment-fantasy-parchment:before {
+  content: "\5f";
+}
+.t2gicon-entertainment-fantasy-poison:before {
+  content: "\60";
+}
+.t2gicon-entertainment-fantasy-ring:before {
+  content: "\7b";
+}
+.t2gicon-entertainment-fantasy-shield:before {
+  content: "\7c";
+}
+.t2gicon-entertainment-fantasy-skull:before {
+  content: "\7d";
+}
+.t2gicon-entertainment-fantasy-stick:before {
+  content: "\7e";
+}
+.t2gicon-entertainment-fantasy-sword:before {
+  content: "\5c";
+}
+.t2gicon-entertainment-fantasy-swords:before {
+  content: "\e000";
+}
+.t2gicon-entertainment-fantasy-treasure:before {
+  content: "\e001";
+}

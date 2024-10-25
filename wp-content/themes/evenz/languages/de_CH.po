@@ -1,0 +1,4302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2021-07-15 10:38+0200\n"
+"PO-Revision-Date: 2021-07-15 10:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_CH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: archive-evenz_event.php:97 archive-evenz_event.php:110
+msgid "Sorry, there are no planned events at the moment."
+msgstr "Zur Zeit sind leider keine Veranstaltungen geplant."
+
+#: archive-evenz_member.php:88 archive-evenz_member.php:101
+#: archive-evenz_testimonial.php:89 archive-evenz_testimonial.php:102
+#: archive-grid-sidebar.php:75 archive-grid-sidebar.php:88 archive-grid.php:70
+#: archive-grid.php:83 archive-horizontal.php:71 archive-horizontal.php:78
+#: archive.php:62 archive.php:69 search.php:28
+msgid "Sorry, nothing here"
+msgstr "Es tut uns leid, hier ist nichts"
+
+#: archive-place.php:92 archive-place.php:111
+msgid "Sorry, there are no places yet."
+msgstr "Es tut uns leid, es gibt noch keine Plätze."
+
+#: comments.php:23 comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:24 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:56
+msgid "Required fields are marked *"
+msgstr "Pflichtfelder sind mit * markiert"
+
+#: comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Hinterlassen Sie eine Antwort an %s"
+
+#: comments.php:67
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: comments.php:68
+msgid "Post Comment"
+msgstr "Kommentar posten"
+
+#: comments.php:71
+msgid "Leave a reply"
+msgstr "Hinterlassen Sie eine Antwort"
+
+#: comments.php:76
+msgid "You must be logged in to post a comment."
+msgstr "Sie müssen angemeldet sein, um einen Kommentar zu hinterlassen."
+
+#: comments.php:77
+msgid "Log in now"
+msgstr "Jetzt anmelden"
+
+#: comments.php:81
+msgid "Logged in as "
+msgstr "Angemeldet als "
+
+#: comments.php:83
+msgid "Log out of this account"
+msgstr "Melden Sie sich von diesem Konto ab"
+
+#: comments.php:84
+msgid "Log out?"
+msgstr "Abmelden?"
+
+#: comments.php:90
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+"Ihre E-Mail-Adresse wird nicht veröffentlicht. Pflichtfelder sind mit * "
+"gekennzeichnet"
+
+#: comments.php:96
+msgid "Comment*"
+msgstr "Kommentar*"
+
+#: comments.php:103
+msgid "Name*"
+msgstr "Name*"
+
+#: comments.php:109
+msgid "Email*"
+msgstr "E-Mail*"
+
+#: comments.php:114
+msgid "Url"
+msgstr "URL"
+
+#: download-monitor/content-download-box.php:47
+#: download-monitor/content-download-default.php:29
+#: download-monitor/content-download-filename.php:31
+#: download-monitor/content-download.php:38
+#, php-format
+msgid "1 download"
+msgid_plural "%d downloads"
+msgstr[0] "1 Download"
+msgstr[1] "%d Downloads"
+
+#: download-monitor/content-download-box.php:60
+#: download-monitor/content-download-default.php:22
+#: download-monitor/content-download-filename.php:23
+#: download-monitor/content-download-title.php:24
+#: download-monitor/content-download.php:51
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: download-monitor/content-download-box.php:62
+#: download-monitor/content-download.php:53
+msgid "Download"
+msgstr "Herunterladen"
+
+#: download-monitor/content-download-button.php:21
+#, php-format
+msgid "Download &ldquo;%s&rdquo;"
+msgstr "Herunterladen &ldquo;%s&rdquo;"
+
+#: download-monitor/content-download-button.php:27
+#, php-format
+msgid "Downloaded 1 time"
+msgid_plural "Downloaded %d times"
+msgstr[0] "1 mal heruntergeladen"
+msgstr[1] "%d mal heruntergeladen"
+
+#: download-monitor/content-download-no-version.php:20
+msgid "Please set a version in your WordPress admin"
+msgstr "Bitte stellen Sie in Ihrem WordPress-Administrator eine Version ein"
+
+#: download-monitor/content-download-no-version.php:21
+msgid "has no version set!"
+msgstr "hat keine Version eingestellt!"
+
+#: inc/gutenberg/index.php:21 inc/theme-base-functions/styles-inclusion.php:20
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "am"
+
+#: inc/ocdi/ocdi-setup.php:34
+#, fuzzy
+msgid "Welcome to the \"Evenz Theme\" Demo Import."
+msgstr "Willkommen zum Demo-Import \"Evenz Theme\"."
+
+#: inc/ocdi/ocdi-setup.php:35
+msgid "Please make sure you check the manual before proceeding"
+msgstr ""
+"Bitte stellen Sie sicher, dass Sie die Anleitung lesen, bevor Sie "
+"weitermachen"
+
+#: inc/ocdi/ocdi-setup.php:50
+#, fuzzy
+msgid ""
+"IMPORTANT NOTICE: activate the Evenz Child theme and  any required plugin "
+"first."
+msgstr ""
+"WICHTIGER HINWEIS: Aktivieren Sie zuerst das Evenz Child-Theme und das "
+"erforderliche Plugin."
+
+#: inc/tgm-plugin-activation/conf.php:61
+msgid "Server check"
+msgstr "Serverprüfung"
+
+#: inc/tgm-plugin-activation/inc/errors.php:19
+#, fuzzy
+msgid "Evenz - The plugins list was successfully updated"
+msgstr "Evenz - Die Plugins-Liste wurde erfolgreich aktualisiert"
+
+#: inc/tgm-plugin-activation/inc/errors.php:29
+msgid ""
+"Refreshing the page too often. Please wait a a few seconds to avoid "
+"overloads."
+msgstr ""
+"Die Seite wird zu oft aktualisiert. Bitte warten Sie ein paar Sekunden, um "
+"Überlastungen zu vermeiden."
+
+#: inc/tgm-plugin-activation/inc/errors.php:46
+#: inc/tgm-plugin-activation/inc/errors.php:88
+#: inc/tgm-plugin-activation/inc/errors.php:99
+#: inc/tgm-plugin-activation/inc/errors.php:123
+#, fuzzy
+msgid "Evenz Notice"
+msgstr "Evenz Hinweis"
+
+#: inc/tgm-plugin-activation/inc/errors.php:47
+msgid "The stored list of required plugins is empty, do you want to try again?"
+msgstr ""
+"Die gespeicherte Liste der benötigten Plugins ist leer, möchten Sie es "
+"erneut versuchen?"
+
+#: inc/tgm-plugin-activation/inc/errors.php:48
+#, fuzzy
+msgid ""
+"If you need support please contact us via email providing the Envato "
+"purchase code."
+msgstr ""
+"Wenn Sie Unterstützung benötigen, kontaktieren Sie uns bitte per E-Mail "
+"unter Angabe des Envato-Kaufcodes."
+
+#: inc/tgm-plugin-activation/inc/errors.php:49
+msgid ""
+"If you already tried this, please wait some time, the server can be under "
+"maintainance."
+msgstr ""
+"Wenn Sie dies bereits versucht haben, warten Sie bitte einige Zeit, der "
+"Server kann unter Wartung sein."
+
+#: inc/tgm-plugin-activation/inc/errors.php:50
+#: inc/tgm-plugin-activation/inc/message.php:58
+msgid "Try to refresh clicking here"
+msgstr "Versuchen Sie zu aktualisieren, indem Sie hier klicken"
+
+#: inc/tgm-plugin-activation/inc/errors.php:66
+#, php-format
+msgid "Thank you for choosing %1$s"
+msgstr "Vielen Dank, dass Sie sich für %1$s entschieden haben"
+
+#: inc/tgm-plugin-activation/inc/errors.php:73
+#: inc/tgm-plugin-activation/inc/welcome-page.php:155
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/tgm-plugin-activation/inc/errors.php:75
+#: inc/tgm-plugin-activation/inc/message.php:24
+msgid "Please activate your license"
+msgstr "Bitte aktivieren Sie Ihre Lizenz"
+
+#: inc/tgm-plugin-activation/inc/errors.php:75
+#: inc/tgm-plugin-activation/inc/message.php:25
+msgid "to install the premium plugins and demo contents"
+msgstr "um die Premium-Plugins und Demo-Inhalte zu installieren"
+
+#: inc/tgm-plugin-activation/inc/errors.php:89
+msgid ""
+"We are experiencing an error while searching for the required plugins. "
+"Please make sure your server or firewall are not blocking outgoing requests "
+"to our server."
+msgstr ""
+"Bei der Suche nach den erforderlichen Plugins tritt ein Fehler auf. Bitte "
+"stellen Sie sicher, dass Ihr Server oder Ihre Firewall ausgehende Anfragen "
+"an unseren Server nicht blockiert."
+
+#: inc/tgm-plugin-activation/inc/errors.php:90
+#: inc/tgm-plugin-activation/inc/errors.php:101
+#: inc/tgm-plugin-activation/inc/errors.php:149
+#, fuzzy
+msgid ""
+"If you need support please contact us via email, providing the Envato "
+"purchase code."
+msgstr ""
+"Wenn Sie Unterstützung benötigen, kontaktieren Sie uns bitte per E-Mail "
+"unter Angabe des Envato-Kaufcodes."
+
+#: inc/tgm-plugin-activation/inc/errors.php:91
+#: inc/tgm-plugin-activation/inc/errors.php:102
+#: inc/tgm-plugin-activation/inc/errors.php:114
+#: inc/tgm-plugin-activation/inc/errors.php:126
+#: inc/tgm-plugin-activation/inc/errors.php:138
+#: inc/tgm-plugin-activation/inc/errors.php:150
+#: inc/tgm-plugin-activation/inc/errors.php:161
+#: inc/tgm-plugin-activation/inc/welcome-page.php:214
+msgid "Where is my purchase code?"
+msgstr "Wo ist mein Einkaufscode?"
+
+#: inc/tgm-plugin-activation/inc/errors.php:100
+msgid ""
+"It seems the list of plugins is actually empty. You can try searching again "
+"in a couple of minutes."
+msgstr ""
+"Es scheint, dass die Liste der Plugins eigentlich leer ist. Sie können die "
+"Suche in ein paar Minuten erneut versuchen."
+
+#: inc/tgm-plugin-activation/inc/errors.php:111
+#: inc/tgm-plugin-activation/inc/errors.php:136
+#: inc/tgm-plugin-activation/inc/errors.php:147
+#: inc/tgm-plugin-activation/inc/errors.php:159
+#, fuzzy
+msgid "Evenz TGM Notice"
+msgstr "Evenz TGM Hinweis"
+
+#: inc/tgm-plugin-activation/inc/errors.php:112
+msgid ""
+"There is some issue while saving data in your database, please check "
+"database permissions"
+msgstr ""
+"Es gibt ein Problem beim Speichern von Daten in Ihrer Datenbank, bitte "
+"überprüfen Sie die Datenbankberechtigungen"
+
+#: inc/tgm-plugin-activation/inc/errors.php:113
+msgid "If you need support please check the Support section of your manual."
+msgstr ""
+"Wenn Sie Unterstützung benötigen, lesen Sie bitte den Abschnitt "
+"Unterstützung in Ihrem Handbuch."
+
+#: inc/tgm-plugin-activation/inc/errors.php:124
+msgid ""
+"Your server is being blocked while searching for plugins. Please make sure "
+"your server or firewall are not blocking outgoing requests to our server."
+msgstr ""
+"Ihr Server wird während der Suche nach Plugins blockiert. Bitte stellen Sie "
+"sicher, dass Ihr Server oder Ihre Firewall keine ausgehenden Anfragen an "
+"unseren Server blockiert."
+
+#: inc/tgm-plugin-activation/inc/errors.php:125
+#, fuzzy
+msgid ""
+"If you need support please contact us via email at, providing the Envato "
+"purchase code."
+msgstr ""
+"Wenn Sie Unterstützung benötigen, kontaktieren Sie uns bitte per E-Mail "
+"unter Angabe des Envato-Kaufcodes."
+
+#: inc/tgm-plugin-activation/inc/errors.php:137
+#, fuzzy
+msgid ""
+"Sorry, our server is temporary unable to retreive the plugins list. You may "
+"try in a few minutes or contact our helpdesk at, providing the Envato "
+"purchase code."
+msgstr ""
+"Leider ist unser Server vorübergehend nicht in der Lage, die Plugins-Liste "
+"abzustellen. Sie können es in wenigen Minuten versuchen oder sich an unseren "
+"Helpdesk wenden und den Envato-Kaufcode angeben."
+
+#: inc/tgm-plugin-activation/inc/errors.php:148
+msgid ""
+"Your server is not able to parse the product ID. Your firewall or server "
+"settings are blocking the request."
+msgstr ""
+"Ihr Server ist nicht in der Lage, die Produkt-ID zu analysieren. Ihre "
+"Firewall- oder Servereinstellungen blockieren die Anfrage."
+
+#: inc/tgm-plugin-activation/inc/errors.php:160
+#, fuzzy
+msgid ""
+"Sorry, our server is not able to handle your request. You may try in a few "
+"minutes or contact our helpdesk, providing the Envato purchase code."
+msgstr ""
+"Leider ist unser Server nicht in der Lage, Ihre Anfrage zu bearbeiten. Sie "
+"können es in wenigen Minuten versuchen oder sich an unseren Helpdesk wenden "
+"und den Envato-Kaufcode angeben."
+
+#: inc/tgm-plugin-activation/inc/errors.php:170
+msgid "Activation required"
+msgstr "Aktivierung erforderlich"
+
+#: inc/tgm-plugin-activation/inc/errors.php:171
+#, fuzzy
+msgid "Premium plugins require a valid purchase code activation."
+msgstr "Premium-Plugins erfordern eine gültige Aktivierung des Kaufcodes."
+
+#: inc/tgm-plugin-activation/inc/message.php:35
+msgid "Item ID: "
+msgstr "Artikel-ID: "
+
+#: inc/tgm-plugin-activation/inc/message.php:45
+msgid "The plugins list is up to date."
+msgstr "Die Liste der Plugins ist auf dem neuesten Stand."
+
+#: inc/tgm-plugin-activation/inc/message.php:58
+msgid "If you just updated your theme, please "
+msgstr "Wenn Sie Ihr Thema gerade aktualisiert haben, bitte "
+
+#: inc/tgm-plugin-activation/inc/remote.php:101
+msgid "Server message"
+msgstr "Server-Nachricht"
+
+#: inc/tgm-plugin-activation/inc/remote.php:165
+msgid "Connection error"
+msgstr "Verbindungsfehler"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:22
+msgid "Invalid request"
+msgstr "Ungültige Anfrage"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:41
+#, fuzzy
+msgid "Please confirm to remove activation:"
+msgstr "Bitte bestätigen Sie, um die Aktivierung zu entfernen:"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:41
+#: inc/tgm-plugin-activation/inc/welcome-page.php:64
+msgid "click here"
+msgstr "Hier klicken"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:64
+msgid ""
+"To remove the activation from this website and use the purchase code in "
+"another website, "
+msgstr ""
+"Um die Aktivierung von dieser Website zu entfernen und den Kaufcode auf "
+"einer anderen Website zu verwenden, "
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:94
+msgid ""
+"This request comes from an unidentified source. If you should not expect "
+"this error, please contact the theme author."
+msgstr ""
+"Diese Anfrage stammt aus einer nicht identifizierten Quelle. Falls Sie "
+"diesen Fehler nicht erwarten sollten, wenden Sie sich bitte an den "
+"Themenautor."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:124
+#, fuzzy
+msgid ""
+"If you are sure that your code is correct, please retry late or use the "
+"Support section of the theme documentation. Thanks."
+msgstr ""
+"Wenn Sie sicher sind, dass Ihr Code korrekt ist, dürfen Sie es noch lange "
+"nicht mehr unternehmen oder den Support-Abschnitt der Designdokumentation "
+"verwenden. Danke."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:126
+#, fuzzy
+msgid "Congratulations! Your purchase code was correctly verified!"
+msgstr "Herzlichen glückwunsch! Ihr Kaufcode wurde korrekt verifiziert!"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:134
+#, fuzzy
+msgid "Sorry, this is not a valid purchase code."
+msgstr "Dies ist leider kein gültiger Kaufcode."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:146
+#, php-format
+msgid "Thank you for choosing %1$s %2$s"
+msgstr "Vielen Dank, dass Sie sich für %1$s %2$s entschieden haben"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:170
+#, php-format
+msgid "Very good! The %1$s license is active."
+msgstr "Sehr gut! Die %1$s -Lizenz ist aktiv."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:196
+#, php-format
+msgid "Go to %1$s Plugins "
+msgstr "Wechseln zu%1$s  Plugins "
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:208
+#, fuzzy
+msgid ""
+"Please copy here your purchase code to enjoy automatic plugins installation "
+"and demo import"
+msgstr ""
+"Bitte kopieren Sie hier Ihren Kaufcode, um die automatische Installation von "
+"Plugins und den Demo-Import zu genießen"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:210
+#, fuzzy
+msgid "Your purchase code"
+msgstr "Ihr Kaufcode"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:212
+msgid "Verify"
+msgstr "Verifizieren"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:226
+msgid "Activation process info and privacy"
+msgstr "Informationen zum Aktivierungsprozess und Datenschutz"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:228
+#, fuzzy
+msgid "We will validate your purchase code via Envato API using our server."
+msgstr "Wir validieren Ihren Kaufcode über die Envato API mit unserem Server."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:229
+#, fuzzy
+msgid "We will store your purchase code associated with the actual host."
+msgstr "Wir speichern Ihren Kaufcode in Verbindung mit dem tatsächlichen Host."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:230
+#, fuzzy
+msgid ""
+"You can activate this license on unlimited localhost / 127.0.0.1 "
+"installations"
+msgstr ""
+"Sie können diese Lizenz auf unbegrenzten localhost / 127.0.0.1 "
+"Installationen aktivieren"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:231
+#, fuzzy
+msgid ""
+"You can use the same purchse code on multiple subfolders / subdomains as per "
+"Envato licensing."
+msgstr ""
+"Sie können denselben Purchse-Code für mehrere Unterordner / Subdomains gemäß "
+"der Envato-Lizenzierung verwenden."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:232
+#, fuzzy
+msgid "You can't activate the same purchase code on different domains."
+msgstr ""
+"Sie können nicht denselben Kaufcode auf verschiedenen Domains aktivieren."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:233
+#, fuzzy
+msgid ""
+"We don't store any personal information except domain and purchase code."
+msgstr ""
+"Wir speichern keine persönlichen Informationen außer Domain und Kaufcode."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:234
+#, fuzzy
+msgid ""
+"You can request the deactivation of your purchase code via email in order to "
+"associate it with another domain."
+msgstr ""
+"Sie können die Deaktivierung Ihres Kaufcodes per E-Mail beantragen, um ihn "
+"einer anderen Domain zuzuordnen."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:235
+msgid "For deactivations or activation issues: "
+msgstr "Bei Deaktivierungen oder Aktivierungsproblemen: "
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:235
+#, fuzzy
+msgid "[Mon - Fri 09-18]"
+msgstr "[Mo - Fr 09-18]"
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:236
+#, fuzzy
+msgid ""
+"The activation is compliant with the Envato license regulations and "
+"Themeforest theme requirements."
+msgstr ""
+"Die Aktivierung entspricht den Envato-Lizenzbestimmungen und den Themeforest-"
+"Theme-Anforderungen."
+
+#: inc/tgm-plugin-activation/inc/welcome-page.php:276
+#: inc/tgm-plugin-activation/inc/welcome-page.php:277
+#, fuzzy, php-format
+msgid "%s Activation"
+msgstr "%s Aktivierung"
+
+#: inc/theme-base-functions/comments-pingback.php:24
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/theme-base-functions/comments-pingback.php:24
+msgid "Edit pingback"
+msgstr "Pingback bearbeiten"
+
+#: inc/theme-base-functions/comments-pingback.php:48
+#, php-format
+msgctxt "Comment date"
+msgid "on %1$s"
+msgstr "am %1$s"
+
+#: inc/theme-base-functions/comments-pingback.php:48
+msgid "Edit comment"
+msgstr "Kommentar bearbeiten"
+
+#: inc/theme-base-functions/comments-pingback.php:52
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf eine Moderation."
+
+#: inc/theme-base-functions/password-form.php:28
+msgid "Password"
+msgstr "Passwort"
+
+#: inc/theme-base-functions/password-form.php:32 searchform.php:13
+#: template-parts/header/search.php:15 woocommerce/woocommerce-helpers.php:332
+msgid "Submit"
+msgstr "Senden"
+
+#: inc/theme-base-functions/register-sidebars.php:20
+msgid "Right Sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: inc/theme-base-functions/register-sidebars.php:28
+msgid "Off canvas Sidebar"
+msgstr "Off-Canvas-Sidebar"
+
+#: inc/theme-base-functions/register-sidebars.php:36
+msgid "Event Sidebar"
+msgstr "Veranstaltungs-Sidebar"
+
+#: inc/theme-base-functions/setup-theme.php:73
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: inc/theme-base-functions/setup-theme.php:76
+msgid "Secondary Menu"
+msgstr "Sekundäres Menü"
+
+#: inc/theme-base-functions/setup-theme.php:79
+msgid "Desktop off-canvas"
+msgstr "Desktop Off-Canvas"
+
+#: inc/theme-base-functions/setup-theme.php:82
+msgid "Footer Menu"
+msgstr "Footer Menü"
+
+#: inc/theme-base-functions/title.php:39 inc/theme-base-functions/title.php:80
+msgid "Shop"
+msgstr "Shop"
+
+#: inc/theme-base-functions/title.php:42
+msgid "Cart"
+msgstr "Warenkorb"
+
+#: inc/theme-base-functions/title.php:48
+msgid "Checkout"
+msgstr "Kasse"
+
+#: inc/theme-base-functions/title.php:51
+msgid "Account"
+msgstr "Konto"
+
+#: inc/theme-base-functions/title.php:55
+msgid "Order payment"
+msgstr "Bestellzahlung"
+
+#: inc/theme-base-functions/title.php:58
+msgid "Order received"
+msgstr "Bestellung eingegangen"
+
+#: inc/theme-base-functions/title.php:61
+msgid "View order"
+msgstr "Bestellung ansehen"
+
+#: inc/theme-base-functions/title.php:64
+msgid "Edit account"
+msgstr "Konto bearbeiten"
+
+#: inc/theme-base-functions/title.php:67
+msgid "Edit address"
+msgstr "Adresse bearbeiten"
+
+#: inc/theme-base-functions/title.php:70
+msgid "Password recovery"
+msgstr "Passwort wiederherstellen"
+
+#: inc/theme-base-functions/title.php:73
+msgid "Log out"
+msgstr "Abmelden"
+
+#: inc/theme-base-functions/title.php:76
+msgid "Add payment method"
+msgstr "Zahlungsart hinzufügen"
+
+#: inc/theme-base-functions/title.php:97
+#: template-parts/pageheader/breadcrumb.php:118
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: inc/theme-base-functions/title.php:102
+#, php-format
+msgid "Day: %s"
+msgstr "Tag: %s"
+
+#: inc/theme-base-functions/title.php:103
+#, php-format
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: inc/theme-base-functions/title.php:104
+#, php-format
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: inc/theme-base-functions/title.php:105
+msgid "Asides"
+msgstr "Seitenrand"
+
+#: inc/theme-base-functions/title.php:106
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:61
+#: inc/ttgcore-setup/theme-functions/theme-function-sponsors.php:78
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/theme-base-functions/title.php:107
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/theme-base-functions/title.php:108
+msgid "Quotes"
+msgstr "Zitate"
+
+#: inc/theme-base-functions/title.php:109
+msgid "Links"
+msgstr "Links"
+
+#: inc/theme-base-functions/title.php:110
+msgid "Galleries"
+msgstr "Galerien"
+
+#: inc/theme-base-functions/title.php:111
+msgid "Sounds"
+msgstr "Töne"
+
+#: inc/theme-base-functions/title.php:118
+#: inc/ttgcore-setup/custom-types/event/event-type.php:33
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:206
+msgid "Events"
+msgstr "Veranstaltungen"
+
+#: inc/theme-base-functions/title.php:126
+msgid "Team"
+msgstr "Team"
+
+#: inc/theme-base-functions/title.php:134
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:23
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:204
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:151
+msgid "Testimonial"
+msgstr "Erfahrungsbericht"
+
+#: inc/theme-base-functions/title.php:142
+msgid "Venues"
+msgstr "Veranstaltungsorte"
+
+#: inc/theme-base-functions/title.php:153
+msgid "Products"
+msgstr "Produkte"
+
+#: inc/theme-base-functions/title.php:161
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/ttgcore-setup/custom-types/event/event-program-display.php:70
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:83
+msgid "Select"
+msgstr "Auswählen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:22
+#: inc/ttgcore-setup/custom-types/event/event-type.php:23
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:174
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:182
+#: inc/ttgcore-setup/theme-functions/theme-function-event-program.php:92
+msgid "Event"
+msgstr "Veranstaltung"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:24
+#: inc/ttgcore-setup/custom-types/member/member-type.php:23
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:23
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:24
+msgid "Add new"
+msgstr "Neue hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:25
+msgid "Add new event"
+msgstr "Neue Veranstaltung hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:26
+msgid "Edit event"
+msgstr "Veranstaltung bearbeiten"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:27
+msgid "New event"
+msgstr "Neue Veranstaltung"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:28
+#: inc/ttgcore-setup/custom-types/event/event-type.php:66
+msgid "All events"
+msgstr "Alle Veranstaltungen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:29
+msgid "View event"
+msgstr "Veranstaltung anzeigen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:30
+msgid "Search event"
+msgstr "Veranstaltung suchen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:31
+msgid "No events found"
+msgstr "Keine Veranstaltungen gefunden"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:32
+msgid "No events found in trash"
+msgstr "Keine Veranstaltungen im Papierkorb gefunden"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:62
+msgid "Event type"
+msgstr "Veranstaltungstyp"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:63
+msgid "Types"
+msgstr "Typen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:64
+msgid "Search by genre"
+msgstr "Suche nach Genre"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:65
+msgid "Popular genres"
+msgstr "Beliebte Genres"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:67
+msgid "Edit Type"
+msgstr "Typ bearbeiten"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:68
+msgid "Update Type"
+msgstr "Typ aktualisieren"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:69
+msgid "Add New Type"
+msgstr "Neuen Typ hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:70
+msgid "New Type Name"
+msgstr "Neuer Typ-Name"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:71
+msgid "Separate Types with commas"
+msgstr "Typen mit Kommas trennen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:72
+msgid "Add or remove Types"
+msgstr "Typen hinzufügen oder entfernen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:73
+msgid "Choose from the most used Types"
+msgstr "Wählen Sie aus den am häufigsten verwendeten Typen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:74
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:230
+msgid "Event types"
+msgstr "Veranstaltungstypen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:97
+msgid "Date start"
+msgstr "Startdatum"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:102
+msgid "Date end"
+msgstr "Endatum"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:107
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:110
+msgid "Time start (24h format)"
+msgstr "Zeitstart (24h-Format)"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:112
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:115
+msgid "Time end (24h format)"
+msgstr "Zeitende (24h-Format)"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:117
+msgid "External event link"
+msgstr "Link zu externen Veranstaltungen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:122
+msgid "Add to google calendar (requires end date and time)"
+msgstr "Zum Google-Kalender hinzufügen (erfordert Enddatum und Uhrzeit)"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:127
+#, fuzzy
+msgid "Hide countdown"
+msgstr "Countdown ausblenden"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:132
+#: template-parts/single/part-event-table.php:82
+#: template-parts/single/part-place-table.php:17
+msgid "Location"
+msgstr "Standort"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:133
+#, fuzzy
+msgid "Venue name"
+msgstr "Name des Veranstaltungsortes"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:138
+#: template-parts/single/part-event-table.php:95
+#: template-parts/single/part-place-table.php:19
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:140
+#, fuzzy
+msgid "Will appear in global event details"
+msgstr "Wird in den globalen Ereignisdetails angezeigt"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:144
+#: template-parts/single/part-event-table.php:119
+#: template-parts/single/part-place-table.php:22
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:150
+msgid "Ticket Buy Links"
+msgstr "Links zum Ticketkauf"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:151
+msgid "Add one for each link to external websites"
+msgstr "Einen für jeden Link zu externen Webseiten hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:161
+msgid "Ticket buy text"
+msgstr "Text zum Ticketkauf"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:162
+msgid "Text for the purchase button"
+msgstr "Text für die Kauf-Schaltfläche"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:167
+msgid "Ticket buy link "
+msgstr "Link zum Ticketkauf "
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:168
+msgid "URL of the purchase page"
+msgstr "URL der Kaufseite"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:173
+#: inc/ttgcore-setup/theme-functions/theme-function-sponsors.php:88
+msgid "Open in new window"
+msgstr "In neuem Fenster öffnen"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:181
+msgid "Event details"
+msgstr "Veranstaltungsdetails"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:194
+#, fuzzy
+msgid "Program of the event"
+msgstr "Programm der Veranstaltung"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:205
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:100
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:136
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:159
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:110
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:156
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:196
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:218
+msgid "Title"
+msgstr "Titel"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:210
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:21
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:22
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:145
+msgid "Schedule"
+msgstr "Zeitplan"
+
+#: inc/ttgcore-setup/custom-types/event/event-type.php:220
+#, fuzzy
+msgid "Event program"
+msgstr "Veranstaltungsprogramm"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:21
+msgid "Team Members"
+msgstr "Teammitglieder"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:22
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:205
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:152
+msgid "Team member"
+msgstr "Teammitglied"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:24
+msgid "Add new team member"
+msgstr "Neues Teammitglied hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:25
+msgid "Edit member"
+msgstr "Mitglied bearbeiten"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:26
+msgid "New member"
+msgstr "Neues Mitglied"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:27
+msgid "All team members"
+msgstr "Alle Teammitglieder"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:28
+msgid "View team member"
+msgstr "Teammitglied anzeigen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:29
+msgid "Search team member"
+msgstr "Teammitglied suchen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:30
+msgid "No member found"
+msgstr "Kein Mitglied gefunden"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:31
+msgid "No members found in Trash"
+msgstr "Keine Mitglieder im Papierkorb gefunden"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:33
+msgid "Team members"
+msgstr "Teammitglieder"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:62
+msgid "Member type"
+msgstr "Mitglieder-Typ"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:63
+msgid "Type"
+msgstr "Typ"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:64
+msgid "Search by type"
+msgstr "Suche nach Typ"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:65
+msgid "Popular member types"
+msgstr "Beliebte Mitgliedertypen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:66
+msgid "All members"
+msgstr "Alle Mitglieder"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:67
+msgid "Edit type"
+msgstr "Typ bearbeiten"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:68
+msgid "Update type"
+msgstr "Typ aktualisieren"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:69
+msgid "Add new type"
+msgstr "Neuen Typ hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:70
+msgid "New type Name"
+msgstr "Neuer Typ Name"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:71
+msgid "Separate types with commas"
+msgstr "Typen mit Kommas trennen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:72
+msgid "Add or remove types"
+msgstr "Typen hinzufügen oder entfernen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:73
+msgid "Choose from the most used types"
+msgstr "Wählen Sie aus den am häufigsten verwendeten Typen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:74
+msgid "Member types"
+msgstr "Mitgliedertypen"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:98
+msgid "Short bio (no HTML)"
+msgstr "Kurzbiographie (kein HTML)"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:103
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:103
+msgid "Professional role"
+msgstr "Berufliche Rolle"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:108
+msgid "Itunes link"
+msgstr "Itunes-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:113
+msgid "Instagram link"
+msgstr "Instagram-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:118
+msgid "Linkedin link"
+msgstr "LinkedIn-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:123
+msgid "Facebook link"
+msgstr "Facebook-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:128
+msgid "Twitter link"
+msgstr "Twitter-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:133
+msgid "Pinterest link"
+msgstr "Pinterest-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:138
+msgid "Vimeo link"
+msgstr "Vimeo-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:143
+msgid "Wordpress link"
+msgstr "WordPress-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:148
+msgid "Youtube link"
+msgstr "YouTube-Link"
+
+#: inc/ttgcore-setup/custom-types/member/member-type.php:154
+msgid "Member details"
+msgstr "Mitglieder-Details"
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:23
+#, fuzzy
+msgid "Enable internal page menu"
+msgstr "Internes Seitenmenü aktivieren"
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:28
+#, fuzzy
+msgid "Overlap header"
+msgstr "Überlappende Kopfzeile"
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:33
+#, fuzzy
+msgid "Internal Menu"
+msgstr "Internes Menü"
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:34
+#, fuzzy
+msgid "Link to internal page ids."
+msgstr "Link zu internen Seiten-IDs."
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:44
+msgid "Label"
+msgstr "Bezeichnung"
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:49
+#, fuzzy
+msgid "Section ID or link URL"
+msgstr "Abschnitts-ID oder Link-URL"
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:51
+#, fuzzy
+msgid "Edit a row in Visual Composer to add its ID or set a custom URL"
+msgstr ""
+"Bearbeiten einer Zeile in Visual Composer, um ihre ID hinzuzufügen oder eine "
+"benutzerdefinierte URL festzulegen"
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:55
+#, fuzzy
+msgid "Highlight button"
+msgstr "Schaltfläche \"Hervorheben\""
+
+#: inc/ttgcore-setup/custom-types/page/page-internal-menu.php:63
+#, fuzzy
+msgid "Internal page menu"
+msgstr "Menü \"Interne Seite\""
+
+#: inc/ttgcore-setup/custom-types/page/page.php:24
+msgid "Hide page header"
+msgstr "Seitenkopf ausblenden"
+
+#: inc/ttgcore-setup/custom-types/page/page.php:30
+msgid "Menu opacity"
+msgstr "Menü-Opazität"
+
+#: inc/ttgcore-setup/custom-types/page/page.php:33
+msgid "Override customizer option for this page"
+msgstr "Benutzerdefinierte Option für diese Seite überschreiben"
+
+#: inc/ttgcore-setup/custom-types/page/page.php:36
+msgid "Opaque"
+msgstr "Undurchsichtig"
+
+#: inc/ttgcore-setup/custom-types/page/page.php:37
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:142
+msgid "Transparent"
+msgstr "Transparent"
+
+#: inc/ttgcore-setup/custom-types/post/post.php:30
+msgid "Post template"
+msgstr "Beitragsvorlage"
+
+#: inc/ttgcore-setup/custom-types/post/post.php:35
+#: woocommerce/custom-product-fields.php:21
+msgid "Force full"
+msgstr "Kraft voll"
+
+#: inc/ttgcore-setup/custom-types/post/post.php:36
+msgid "Force sidebar"
+msgstr "Kraft-Seitenleiste"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-display.php:82
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:54
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:63
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:103
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:79
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:88
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:264
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:183
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:238
+#: template-parts/footer/footer-menu.php:104
+#: template-parts/pageheader/image-shop.php:46
+#: template-parts/pageheader/image-shop.php:55
+#: template-parts/pageheader/image.php:91
+#: template-parts/pageheader/image.php:100 vc_templates/vc_row.php:176
+msgid "Background"
+msgstr "Hintergrund"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-display.php:111
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:72
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:24
+msgid "Add new schedule"
+msgstr "Neuen Zeitplan hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:25
+msgid "Edit schedule"
+msgstr "Zeitplan bearbeiten"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:26
+msgid "New schedule"
+msgstr "Neuer Zeitplan"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:27
+msgid "All schedules"
+msgstr "Alle Zeitpläne"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:28
+msgid "View schedule"
+msgstr "Zeitplan anzeigen"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:29
+msgid "Search schedule"
+msgstr "Zeitplan suchen"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:30
+msgid "No schedules found"
+msgstr "Keine Termine gefunden"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:31
+#, fuzzy
+msgid "No schedules found in trash"
+msgstr "Keine Zeitpläne im Papierkorb gefunden"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:32
+msgid "Schedules"
+msgstr "Zeitpläne"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:68
+msgid "Speaker"
+msgstr "Referent"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:84
+#, fuzzy
+msgid "Schedule items"
+msgstr "Planen von Elementen"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:95
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:349
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:354
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:170
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:115
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:166
+msgid "Background image"
+msgstr "Hintergrundbild"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:105
+msgid "Description"
+msgstr "Beschreibung"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:120
+#, fuzzy
+msgid "Time subtitle"
+msgstr "Zeit Untertitel"
+
+#: inc/ttgcore-setup/custom-types/schedule/schedule-type.php:131
+#, fuzzy
+msgid "Schedule details"
+msgstr "Details zum Zeitplan"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:22
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:33
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:25
+msgid "Add new testimonial"
+msgstr "Neue Referenz hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:26
+#, fuzzy
+msgid "Edit testimonial"
+msgstr "Testimonial bearbeiten"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:27
+#, fuzzy
+msgid "New testimonial"
+msgstr "Neues Testimonial"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:28
+#, fuzzy
+msgid "All testimonials"
+msgstr "Alle Testimonials"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:29
+#, fuzzy
+msgid "View testimonial"
+msgstr "Testimonial ansehen"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:30
+#, fuzzy
+msgid "Search testimonial"
+msgstr "Testimonial durchsuchen"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:31
+#, fuzzy
+msgid "No testimonial found"
+msgstr "Kein Testimonial gefunden"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:32
+#, fuzzy
+msgid "No testimonial found in trash"
+msgstr "Kein Testimonial im Papierkorb gefunden"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:64
+#, fuzzy
+msgid "Testimonial category"
+msgstr "Kategorie \"Testimonial\""
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:65
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:78
+msgid "Categories"
+msgstr "Kategorien"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:66
+msgid "Search by category"
+msgstr "Suche nach Kategorie"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:67
+#, fuzzy
+msgid "Popular categories"
+msgstr "Beliebte Kategorien"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:68
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:71
+msgid "Edit category"
+msgstr "Kategorie bearbeiten"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:72
+msgid "Update category"
+msgstr "Kategorie aktualisieren"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:73
+msgid "Add New category"
+msgstr "Neue Kategorie hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:74
+#, fuzzy
+msgid "New category"
+msgstr "Neue Kategorie hinzufügen"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:75
+msgid "Separate categories with commas"
+msgstr "Trennen Sie Kategorien durch Kommata"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:76
+msgid "Add or remove categories"
+msgstr "Kategorien hinzufügen oder entfernen"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:77
+msgid "Choose from the most used categories"
+msgstr "Wählen Sie aus den am häufigsten verwendeten Kategorien"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:98
+#, fuzzy
+msgid "Testimonial name"
+msgstr "Name des Kundenmeinungs"
+
+#: inc/ttgcore-setup/custom-types/testimonial/testimonial-type.php:109
+#, fuzzy
+msgid "Testimonial details"
+msgstr "Details zum Testimonial"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:56
+msgid "Buttons corner radius"
+msgstr "Schaltflächen Eckenradius"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:57
+msgid "Affect border radius of every button from this theme"
+msgstr "Einfluss auf den Randradius jeder Schaltfläche aus diesem Thema"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:105
+msgid "Page background"
+msgstr "Seitenhintergrund"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:121
+msgid "Paper and cards backgorund"
+msgstr "Papier und Karten im Hintergrund"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:137
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:168
+msgid "Titles color"
+msgstr "Titel-Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:198
+msgid "Accent color"
+msgstr "Akzent-Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:231
+msgid "Accent hover color"
+msgstr "Akzent-Hover-Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:264
+msgid "Text color on accent"
+msgstr "Textfarbe auf Akzent"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:288
+msgid "Primary background color"
+msgstr "Primäre Hintergrundfarbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:308
+msgid "Primary light background color"
+msgstr "Primäre helle Hintergrundfarbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:323
+msgid "Primary text color"
+msgstr "Primäre Textfarbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:345
+msgid "Duotone color light"
+msgstr "Duotones Farblicht"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:346
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:361
+msgid "Requires the activation of duotone effect"
+msgstr "Erfordert die Aktivierung des Duotoneffekts"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:360
+msgid "Duotone color dark"
+msgstr "Dunkler Duoton"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:376
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:395
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:918
+msgid "Gradient overlay"
+msgstr "Gradienten-Überlagerung"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:380
+msgid "Color"
+msgstr "Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:381
+msgid "Hover"
+msgstr "Hover"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:399
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:416
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:435
+msgid "Start"
+msgstr "Start"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:400
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:418
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:436
+#: template-parts/single/part-event-table.php:65
+msgid "End"
+msgstr "Ende"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:412
+msgid "Gradient backgrounds"
+msgstr "Gradienten-Hintergründe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:417
+msgid "Middle"
+msgstr "Mitte"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:431
+msgid "Gradient primary boxes"
+msgstr "Gradienten-Primärboxen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:457
+msgid "Enable CTA button"
+msgstr "CTA-Taste aktivieren"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:459
+msgid "Display attractive call to action in header bar"
+msgstr "Attraktive Handlungsaufforderung in der Kopfzeile anzeigen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:466
+msgid "Button text (required)"
+msgstr "Schaltflächentext (erforderlich)"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:467
+msgid "Add button to header"
+msgstr "Schaltfläche zum Header hinzufügen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:469
+#: template-parts/header/menu.php:94
+msgid "Contact us"
+msgstr "Kontaktieren Sie uns"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:476
+msgid "Link URL (required)"
+msgstr "Link-URL (erforderlich)"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:484
+msgid "CSS Class"
+msgstr "CSS Klasse"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:485
+msgid "Add style class to button"
+msgstr "Stilklasse zur Schaltfläche hinzufügen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:493
+msgid "Element ID"
+msgstr "Element ID"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:494
+msgid "ID to connect any external javascript if required"
+msgstr ""
+"ID zur Verbindung eines beliebigen externen Javascripts, falls erforderlich"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:504
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:528
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:202
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:319
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:413
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:126
+msgid "Icon"
+msgstr "Symbol"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:505
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:529
+msgid "Google material icons"
+msgstr "Google-Material-Symbole"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:505
+msgid "View full list"
+msgstr "Vollständige Liste anzeigen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:521
+msgid "Enable secondary header"
+msgstr "Sekundäre Kopfzeile aktivieren"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:523
+msgid "Add header bar for optional menu and social icons"
+msgstr "Kopfzeile für optionales Menü und soziale Symbole hinzufügen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:537
+msgid "Call to action primary text"
+msgstr "Aufruf zum Handeln Primärtext"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:538
+msgid "Prominent part of text"
+msgstr "Prominenter Textteil"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:544
+msgid "Call to action secondary text"
+msgstr "Aufruf zum Handeln sekundärer Text"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:545
+msgid "Secondary part of the text"
+msgstr "Sekundärer Teil des Textes"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:551
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:302
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:76
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:192
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:131
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:182
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:111
+#: inc/ttgcore-setup/theme-functions/theme-function-sponsors.php:83
+#: template-parts/single/part-event-table.php:108
+#: template-parts/single/part-place-table.php:21
+msgid "Link"
+msgstr "Link"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:558
+msgid "Chose"
+msgstr "Wählen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:566
+msgid "Countdown to an event"
+msgstr "Countdown für eine Veranstaltung"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:567
+msgid "Display a countdown to a specific event date"
+msgstr "Countdown bis zu einem bestimmten Ereignisdatum anzeigen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:574
+msgid "Display milliseconds"
+msgstr "Millisekunden anzeigen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:584
+msgid "Secondary menu background color"
+msgstr "Hintergrundfarbe des Sekundärmenüs"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:600
+msgid "Secondary menu text color"
+msgstr "Textfarbe des Sekundärmenüs"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:614
+msgid "Secondary menu links color"
+msgstr "Farbe der Links im Sekundärmenü"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:628
+msgid "Secondary menu links hover color"
+msgstr "Sekundärmenü-Links hovern Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:646
+#, fuzzy
+msgid "Post sidebar"
+msgstr "Blog-Beitrag Seitenleiste"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:648
+#, fuzzy
+msgid "Enable sidebar in single posts"
+msgstr "Seitenleiste in einzelnen Beiträgen aktivieren"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:660
+msgid "Post items corner radius"
+msgstr "Eckenradius der Postsendungen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:661
+msgid "Affect border radius of every card element in the site for coherence"
+msgstr ""
+"Beeinflussen Sie den Grenzradius jedes Kartenelements in der Seite für "
+"Kohärenz"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:686
+msgid "Hide past events"
+msgstr "Vergangene Veranstaltungen ausblenden"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:688
+msgid ""
+"In event archives and taxonomy pages, every event with past date will be "
+"hidden."
+msgstr ""
+"In Veranstaltungsarchiven und Taxonomieseiten wird jede Veranstaltung mit "
+"vergangenem Datum ausgeblendet."
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:694
+#, fuzzy
+msgid "Speakers amount per single timetable item"
+msgstr "Referentenbetrag pro einzelner Stundenplanposition"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:697
+#, fuzzy
+msgid ""
+"Set how many speakers maximum can occupy the same time interval in the "
+"schedule timetable"
+msgstr ""
+"Legen Sie im Zeitplan fest, wie viele Lautsprecher maximal das gleiche "
+"Zeitintervall belegen können"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:709
+#, fuzzy
+msgid "Display related events"
+msgstr "Verwandte Ereignisse anzeigen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:717
+msgid "Display sharing functions"
+msgstr "Display-Sharing-Funktionen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:719
+msgid "Enable sharing and voting in events pages"
+msgstr "Ermöglichen Sie das Teilen und Abstimmen auf Veranstaltungsseiten"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:726
+msgid "Use 12 hours time format"
+msgstr "12-Stunden-Zeitformat verwenden"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:740
+msgid "Logo header opaque"
+msgstr "Logo-Header undurchsichtig"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:742
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:750
+msgid "Max height: 100px"
+msgstr "Maximale Höhe: 100px"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:748
+msgid "Logo header transparent"
+msgstr "Logo-Kopfzeile transparent"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:756
+msgid "Menu font size"
+msgstr "Schriftgröße des Menüs"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:777
+msgid "Logo header mobile"
+msgstr "Logo-Header mobil"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:778
+msgid "Max height: 50px"
+msgstr "Maximale Höhe: 50px"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:788
+msgid "Display shopping cart for WooCommerce"
+msgstr "Display-Warenkorb für WooCommerce"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:790
+msgid "If using WooCommerce, will add the cart icon and total to the header."
+msgstr ""
+"Wenn Sie WooCommerce verwenden, werden das Warenkorb-Symbol und die "
+"Gesamtsumme in der Kopfzeile hinzugefügt."
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:800
+msgid "Display search"
+msgstr "Display-Suche"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:802
+msgid "Add the search icon to the header bar"
+msgstr "Fügen Sie das Suchsymbol in die Kopfzeile ein"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:810
+msgid "Parallax effect"
+msgstr "Parallaxe-Effekt"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:812
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:965
+msgid "Enable effect on scroll for archive and default headers"
+msgstr ""
+"Effekt auf den Bildlauf für Archiv- und Standardüberschriften aktivieren"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:820
+#, fuzzy
+msgid "Sticky menu (desktop only)"
+msgstr "Sticky-Menü (nur Desktop)"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:822
+msgid "On scroll, stick the menu"
+msgstr "Halten Sie beim Scrollen das Menü"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:830
+msgid "Transparent menu"
+msgstr "Transparentes Menü"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:832
+msgid "Default color will be white with transparency enabled"
+msgstr "Die Standardfarbe ist weiß mit aktivierter Transparenz"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:844
+msgid "Default page header background image"
+msgstr "Standardhintergrundbild für den Seitenkopf"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:845
+msgid "Suggested size: 1660x790"
+msgstr "Empfohlene Größe: 1660x790"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:855
+#: vc_templates/pagebuilder-setup.php:102
+msgid "Waves effect"
+msgstr "Welleneffekt"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:863
+msgid "Duotone effect"
+msgstr "Duoton-Effekt"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:865
+#, fuzzy
+msgid "Modify the colors of the header adding duotone effect"
+msgstr "Ändern der Farben der Kopfzeile durch Hinzufügen des Duplexeffekts"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:874
+msgid "Greyscale background"
+msgstr "Graustufen-Hintergrund"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:875
+msgid "Remove colors from header background for neat effect"
+msgstr ""
+"Entfernen Sie Farben vom Kopfzeilenhintergrund für einen sauberen Effekt"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:896
+msgid "Darken background"
+msgstr "Hintergrund verdunkeln"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:940
+#, fuzzy
+msgid "Header frame thickness"
+msgstr "Dicke des Header-Rahmens"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:963
+msgid "Page header parallax"
+msgstr "Seitenkopf-Parallaxe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:976
+msgid "Main menu background color"
+msgstr "Hintergrundfarbe des Hauptmenüs"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:991
+#, fuzzy
+msgid "Main menu text color"
+msgstr "Textfarbe des Hauptmenüs"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1005
+#, fuzzy
+msgid "Main menu links color"
+msgstr "Hauptmenü Links Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1019
+msgid "Main menu links hover color"
+msgstr "Hauptmenü-Links hovern Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1043
+msgid "Copyright text content"
+msgstr "Copyright Textinhalt"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1050
+msgid "Copyright bar background color"
+msgstr "Hintergrundfarbe des Copyrights"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1064
+msgid "Copyright bar text color"
+msgstr "Farbe des Copyrights"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1078
+msgid "Copyright bar links color"
+msgstr "Copyright-Leiste Links Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1092
+msgid "Copyright bar links hover color"
+msgstr "Copyright-Leiste Links schweben Farbe"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1152
+msgid "Contents"
+msgstr "Inhalte"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1161
+#, fuzzy
+msgid ""
+"Default: Karla 400. Be sure your language is supported by the font you "
+"choose on fonts.google.com"
+msgstr ""
+"Standard: Karla 400. Stellen Sie sicher, dass Ihre Sprache von der "
+"Schriftart unterstützt wird, die Sie auf fonts.google.com"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1173
+msgid "Global text rendering"
+msgstr "Globale Textdarstellung"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1179
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1286
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1328
+msgid "geometricPrecision"
+msgstr "Geometrische Präzision"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1180
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1287
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1329
+msgid "auto"
+msgstr "automatisch"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1181
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1288
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1330
+msgid "optimizeSpeed"
+msgstr "optimizeSpeed"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1182
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1289
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1331
+msgid "optimizeLegibility"
+msgstr "optimizeLegibility"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1183
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1290
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1332
+msgid "initial"
+msgstr "initial"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1191
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:106
+msgid "Bold"
+msgstr "Bold"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1199
+#, fuzzy
+msgid ""
+"Default: Karla 700. Be sure your language is supported by the font you "
+"choose on fonts.google.com"
+msgstr ""
+"Standard: Karla 700. Stellen Sie sicher, dass Ihre Sprache von der "
+"Schriftart unterstützt wird, die Sie auf fonts.google.com"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1212
+msgid "Headings"
+msgstr "Überschriften"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1221
+#, fuzzy
+msgid ""
+"Style for the H tags. Default: Rubik 500. Be sure your language is supported "
+"by the font you choose on fonts.google.com"
+msgstr ""
+"Stil für die H-Tags. Standard: Rubik 500. Stellen Sie sicher, dass Ihre "
+"Sprache von der Schriftart unterstützt wird, die Sie auf fonts.google.com"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1235
+msgid "Captions"
+msgstr "Überschriften"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1244
+#, fuzzy
+msgid ""
+"Default: Montserrat 700 uppercase. Be sure your language is supported by the "
+"font you choose on fonts.google.com"
+msgstr ""
+"Standard: Montserrat 700 Großbuchstaben. Stellen Sie sicher, dass Ihre "
+"Sprache von der Schriftart unterstützt wird, die Sie auf fonts.google.com"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1257
+msgid "Page header"
+msgstr "Kopfzeile der Seite"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1266
+#, fuzzy
+msgid ""
+"Default: Montserrat 700. Be sure your language is supported by the font you "
+"choose on fonts.google.com"
+msgstr ""
+"Standard: Montserrat 700. Stellen Sie sicher, dass Ihre Sprache von der "
+"Schriftart unterstützt wird, die Sie auf fonts.google.com"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1280
+msgid "Heading rendering"
+msgstr "Darstellung der Überschriften"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1299
+msgid "Menu, buttons and metas"
+msgstr "Menü, Schaltflächen und Metas"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1308
+msgid ""
+"Default: Montserrat 600. Be sure your language is supported by the font you "
+"choose on fonts.google.com"
+msgstr ""
+"Voreinstellung: Montserrat 600. Stellen Sie sicher, dass Ihre Sprache von "
+"der Schriftart, die Sie auf fonts.google.com wählen, unterstützt wird"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1322
+msgid "Menu rendering"
+msgstr "Menü-Darstellung"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1343
+msgid "Shop design"
+msgstr "Shop-Design"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1349
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1365
+msgid "Full page"
+msgstr "Volle Seite"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1350
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1366
+#: woocommerce/custom-product-fields.php:23
+msgid "Left sidebar"
+msgstr "Linke Seitenleiste"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1351
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1367
+#: woocommerce/custom-product-fields.php:22
+msgid "Right sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1359
+msgid "Single product design"
+msgstr "Einzelproduktdesign"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1379
+msgid "Load minified styles"
+msgstr "Miniaturisierte Stile laden"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1381
+msgid "Optimize loading speed by loading minified stylesheet."
+msgstr ""
+"Optimieren Sie die Ladegeschwindigkeit, indem Sie ein Minified Stylesheet "
+"laden."
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1387
+msgid "Load minified javascript"
+msgstr "Minimiertes Javascript laden"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/fields.php:1389
+msgid "Optimize loading speed by loading minified javascript."
+msgstr ""
+"Optimieren Sie die Ladegeschwindigkeit durch das Laden von verkleinertem "
+"Javascript."
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:15
+#, fuzzy
+msgid "Theme customization"
+msgstr "Theme-Anpassung"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:26
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:244
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:250
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:256
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:262
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:268
+msgid "Colors"
+msgstr "Farben"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:31
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:33
+#, fuzzy
+msgid "Set font families and settings"
+msgstr "Festlegen von Schriftfamilien und -einstellungen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:38
+msgid "Buttons"
+msgstr "Schaltflächen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:43
+#, fuzzy
+msgid "Menu bar"
+msgstr "Menüleiste"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:48
+msgid "Call to action button"
+msgstr "Aktionsaufruf-Taste"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:53
+msgid "Secondary menu"
+msgstr "Sekundäres Menü"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:58
+msgid "Social networks"
+msgstr "Soziale Netzwerke"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:60
+msgid "Social network profiles"
+msgstr "Profile für soziale Netzwerke"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:66
+msgid "Header"
+msgstr "Header"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:72
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:74
+msgid "Footer text and functions"
+msgstr "Fußzeilentext und Funktionen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:79
+#, fuzzy
+msgid "Blog settings"
+msgstr "Blog-Einstellungen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:86
+msgid "Events settings"
+msgstr "Veranstaltungs-Einstellungen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:95
+msgid "Shop design settings"
+msgstr "Shop-Design-Einstellungen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:97
+msgid "Customize shop design"
+msgstr "Shop-Design anpassen"
+
+#: inc/ttgcore-setup/customizer/kirki-configuration/sections.php:104
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:20
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:40
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:84
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:93
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:101
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:109
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:117
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:125
+msgid "Carousel settings"
+msgstr "Karussell-Einstellungen"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:22
+msgid "Items per row in desktop"
+msgstr "Artikel pro Zeile auf dem Desktop"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:25
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:142
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:165
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:295
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:308
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:122
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:135
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:166
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:179
+msgid "1"
+msgstr "1"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:26
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:143
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:166
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:296
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:309
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:123
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:136
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:167
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:180
+msgid "2"
+msgstr "2"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:27
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:144
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:167
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:297
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:310
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:124
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:137
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:168
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:181
+msgid "3"
+msgstr "3"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:28
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:145
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:168
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:298
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:169
+msgid "4"
+msgstr "4"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:29
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:146
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:169
+msgid "5"
+msgstr "5"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:30
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:147
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:170
+msgid "6"
+msgstr "6"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:31
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:148
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:171
+msgid "7"
+msgstr "7"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:32
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:149
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:172
+msgid "8"
+msgstr "8"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:37
+msgid "Select number of items per row."
+msgstr "Wählen Sie die Anzahl der Artikel pro Zeile aus."
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:42
+msgid "Gap"
+msgstr "Lücke"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:45
+msgid "0px"
+msgstr "0px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:46
+msgid "1px"
+msgstr "1px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:47
+msgid "2px"
+msgstr "2px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:48
+msgid "3px"
+msgstr "3px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:49
+msgid "4px"
+msgstr "4px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:50
+msgid "5px"
+msgstr "5px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:51
+msgid "6px"
+msgstr "6px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:52
+msgid "7px"
+msgstr "7px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:53
+msgid "8px"
+msgstr "8px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:54
+msgid "9px"
+msgstr "9px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:55
+msgid "10px"
+msgstr "10px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:56
+msgid "11px"
+msgstr "11px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:57
+msgid "12px"
+msgstr "12px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:58
+msgid "13px"
+msgstr "13px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:59
+msgid "14px"
+msgstr "14px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:60
+msgid "15px"
+msgstr "15px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:61
+msgid "16px"
+msgstr "16px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:62
+msgid "17px"
+msgstr "17px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:63
+msgid "18px"
+msgstr "18px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:64
+msgid "19px"
+msgstr "19px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:65
+msgid "20px"
+msgstr "20px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:66
+msgid "21px"
+msgstr "21px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:67
+msgid "22px"
+msgstr "22px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:68
+msgid "23px"
+msgstr "23px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:69
+msgid "24px"
+msgstr "24px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:70
+msgid "25px"
+msgstr "25px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:71
+msgid "26px"
+msgstr "26px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:72
+msgid "27px"
+msgstr "27px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:73
+msgid "28px"
+msgstr "28px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:74
+msgid "29px"
+msgstr "29px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:75
+msgid "30px"
+msgstr "30px"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:78
+msgid "Select gap between items."
+msgstr "Lücke zwischen Artikeln auswählen."
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:85
+msgid "Autoplay timeout"
+msgstr "Autoplay-Zeitüberschreitung"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:86
+msgid "Set to 0 to disable"
+msgstr "Zum Deaktivieren auf 0 setzen"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:94
+msgid "Pause on hover"
+msgstr "Pause bei Maus-Hover"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:102
+msgid "Loop"
+msgstr "Schleife"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:110
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:118
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:154
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:153
+msgid "Center"
+msgstr "Zentriert"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:118
+msgid "Nav"
+msgstr "Navigation"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:126
+msgid "Dots"
+msgstr "Punkte"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:137
+msgid "Tablet"
+msgstr "Tablet"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:139
+msgid "Items per row tablet"
+msgstr "Artikel pro Zeilentablet"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:160
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:162
+msgid "Items per row mobile"
+msgstr "Artikel pro Zeile mobil"
+
+#: inc/ttgcore-setup/theme-functions/helpers/carousel-fields.php:177
+msgid "Select number of single grid elements per row."
+msgstr "Anzahl der Artikel pro Zeile."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:39
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:116
+msgid "Custom query"
+msgstr "Benutzerdefinierte Abfrage"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:43
+msgid "List of IDs"
+msgstr "Liste der IDs"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:61
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:69
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:88
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:114
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:131
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:145
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:159
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:177
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:180
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:193
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:196
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:209
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:212
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:135
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:143
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:162
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:191
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:205
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:219
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:237
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:240
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:269
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:272
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:198
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:145
+msgid "Data Settings"
+msgstr "Dateneinstellungen"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:62
+msgid "Posts by ID"
+msgstr "Beiträge nach ID"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:63
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:175
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:137
+msgid ""
+"Display only the contents with these IDs. All other parameters will be "
+"ignored."
+msgstr ""
+"Zeigen Sie nur die Inhalte mit diesen IDs an. Alle anderen Parameter werden "
+"ignoriert."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:71
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:145
+msgid "Total items"
+msgstr "Gesamtzahl der Artikel"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:77
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:151
+msgid ""
+"Set max limit for items in grid or enter -1 to display all (limited to 1000)."
+msgstr ""
+"Legen Sie die Höchstgrenze für Artikel im Gitter fest oder geben Sie -1 ein, "
+"um alle anzuzeigen (begrenzt auf 1000)."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:90
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:164
+msgid "Narrow data source"
+msgstr "Datenquelle eingrenzen"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:91
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:165
+msgid "Enter categories, tags, formats or custom taxonomies."
+msgstr ""
+"Geben Sie Kategorien, Tags, Formate oder benutzerdefinierte Taxonomien ein."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:118
+msgid "Build custom query according to WordPress."
+msgstr "Erstellen Sie benutzerdefinierte Abfragen gemäß WordPress."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:118
+msgid "WordPress Codex"
+msgstr "WordPress-Kodex"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:129
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:87
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:189
+msgid "Order by"
+msgstr "Sortieren nach"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:133
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:193
+msgid "Date"
+msgstr "Datum"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:134
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:194
+msgid "Order by post ID"
+msgstr "Sortieren nach Beitrags-ID"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:135
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:195
+#: template-parts/author/author-card.php:39
+msgid "Author"
+msgstr "Autor"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:137
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:197
+msgid "Last modified date"
+msgstr "Datum der letzten Änderung"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:138
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:198
+msgid "Post/page parent ID"
+msgstr "Post-/Elternseiten-ID"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:139
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:199
+msgid "Number of comments"
+msgstr "Anzahl der Kommentare"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:140
+msgid "Menu order/Page Order"
+msgstr "Menü Reihenfolge / Seiten Reihenfolge"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:141
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:201
+msgid "Meta value"
+msgstr "Meta-Wert"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:142
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:202
+msgid "Random order"
+msgstr "Zufällige Sortierung"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:144
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:204
+msgid ""
+"Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
+"meta key is required. Meta value = alphabetical order. Meta value number = "
+"numerical order."
+msgstr ""
+"Auftragsart auswählen. Wenn \"Metawert\" oder \"Metawertnummer\" gewählt "
+"wird, ist ein Metaschlüssel erforderlich. Metawert = alphabetische "
+"Reihenfolge. Metawertnummer = numerische Reihenfolge."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:157
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:217
+msgid "Sort order"
+msgstr "Sortierreihenfolge"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:161
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:221
+msgid "Descending"
+msgstr "Absteigend"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:162
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:222
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:165
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:225
+msgid "Select sorting order."
+msgstr "Wähle die Sortierreihenfolge."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:176
+msgid "Meta key"
+msgstr "Meta-Schlüssel"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:179
+msgid "Input meta key for grid ordering."
+msgstr "Metaschlüssel für Gitteranordnung eingeben."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:192
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:268
+msgid "Offset"
+msgstr "Offset"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:195
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:271
+msgid "Number of grid elements to displace or pass over."
+msgstr ""
+"Anzahl der Gitterelemente, die verschoben oder übergangen werden sollen."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:208
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:236
+msgid "Exclude"
+msgstr "Ausschließen"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:211
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:239
+msgid "Exclude posts, pages, etc. by ID."
+msgstr "Posten, Seiten usw. nach ID ausschließen."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:224
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:252
+msgid "Extra class name"
+msgstr "Extra Klassenname"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:226
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:254
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+"Gestalten Sie bestimmte Inhaltselemente anders - fügen Sie einen "
+"Klassennamen hinzu und verweisen Sie im benutzerdefinierten CSS darauf."
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:230
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:258
+msgid "Container ID"
+msgstr "Container ID"
+
+#: inc/ttgcore-setup/theme-functions/helpers/vc-query-fields.php:232
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:260
+#, php-format
+msgid ""
+"Enter element ID (Note: make sure it is unique and valid according to <a "
+"href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+"Geben Sie die Element-ID ein (Hinweis: Stellen Sie sicher, dass sie "
+"eindeutig und gültig ist gemäß <a href=\"%s\" target=\"_blank\">w3c-"
+"specification</a>)."
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:99
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:69
+msgid "Warning: insert at least 2 letters for this effect"
+msgstr "Warnung: Fügen Sie mindestens 2 Buchstaben für diesen Effekt ein"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:249
+msgid "3D Header"
+msgstr "3D-Kopfzeile"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:252
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:83
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:65
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:114
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:131
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:104
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:115
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:162
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:170
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:168
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:164
+#: inc/ttgcore-setup/theme-functions/theme-function-event-program.php:88
+#: inc/ttgcore-setup/theme-functions/theme-function-featured-author.php:74
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:57
+#: inc/ttgcore-setup/theme-functions/theme-function-herolist.php:62
+#: inc/ttgcore-setup/theme-functions/theme-function-internalmenu.php:54
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:131
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:113
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:194
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:141
+#: inc/ttgcore-setup/theme-functions/theme-function-post-hero.php:94
+#: inc/ttgcore-setup/theme-functions/theme-function-post-inline.php:107
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list-horizontal.php:101
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list-wide.php:101
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list.php:107
+#: inc/ttgcore-setup/theme-functions/theme-function-post-mosaic.php:109
+#: inc/ttgcore-setup/theme-functions/theme-function-post-slider.php:156
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:210
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:149
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:176
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:100
+#: inc/ttgcore-setup/theme-functions/theme-function-spacer.php:50
+#: inc/ttgcore-setup/theme-functions/theme-function-sponsors.php:69
+msgid "Theme shortcodes"
+msgstr "Themen-Kurzbefehle"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:256
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:180
+msgid "Intro text"
+msgstr "Einführungstext"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:263
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:111
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:187
+msgid "Caption"
+msgstr "Bildunterschrift"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:270
+msgid "Free text"
+msgstr "Freitext"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:275
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:154
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:161
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:223
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:206
+msgid "Subtitle"
+msgstr "Untertitel"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:282
+msgid "Event countdown"
+msgstr "Veranstaltungs-Countdown"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:307
+msgid "Link text"
+msgstr "Linktext"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:313
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:319
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:325
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:331
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:211
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:217
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:223
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:229
+msgid "Intro effect"
+msgstr "Intro-Effekt"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:315
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:213
+msgid "Color 1"
+msgstr "Farbe 1"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:321
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:219
+msgid "Color 2"
+msgstr "Farbe 2"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:327
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:225
+msgid "Color 3"
+msgstr "Farbe 3"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:333
+msgid "Effect"
+msgstr "Effekt"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:337
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:235
+msgid "Tokyo"
+msgstr "Tokio"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:338
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:236
+msgid "London"
+msgstr "London"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:339
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:237
+msgid "Paris"
+msgstr "Paris"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:340
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:238
+msgid "Ibiza"
+msgstr "Ibiza"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:341
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:239
+msgid "New York"
+msgstr "New York"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:342
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:240
+msgid "Oslo"
+msgstr "Oslo"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:345
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:195
+msgid "Choose effect style"
+msgstr "Wählen Sie den Effektstil"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:360
+msgid "Border color"
+msgstr "Rahmenfarbe"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:365
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:371
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:117
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:124
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:159
+#: inc/ttgcore-setup/theme-functions/theme-function-herolist.php:79
+#: inc/ttgcore-setup/theme-functions/theme-function-internalmenu.php:58
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:245
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:159
+msgid "Class"
+msgstr "Klasse"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-3d-header.php:374
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:120
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:127
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:162
+#: inc/ttgcore-setup/theme-functions/theme-function-herolist.php:80
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:248
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:160
+msgid "Add an extra class for CSS styling"
+msgstr "Eine zusätzliche Klasse für CSS-Styling hinzufügen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:79
+msgid "Authors small"
+msgstr "Autoren klein"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:82
+msgid ""
+"Grid of authors small cards. Only authors with published posts will be "
+"extracted."
+msgstr ""
+"Gitter von Autoren-Kärtchen. Es werden nur Autoren mit veröffentlichten "
+"Beiträgen extrahiert."
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:91
+msgid "Post Count"
+msgstr "Beitragszähler"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:92
+msgid "Nicename"
+msgstr "Spitzname"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:93
+#: template-parts/single/part-place-table.php:23
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:94
+msgid "Display name"
+msgstr "Anzeigename"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:99
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:219
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:193
+msgid "Offset (number)"
+msgstr "Offset (Zahl)"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:100
+msgid "Number of posts to skip in the database query"
+msgstr ""
+"Anzahl der Beiträge, die in der Datenbankabfrage übersprungen werden sollen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:105
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:200
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:181
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr "Menge"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:107
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:203
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:183
+msgid "Number of items to display"
+msgstr "Anzahl der anzuzeigenden Artikel"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:111
+msgid "Search by name"
+msgstr "Suche nach Namen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-authors-small.php:113
+msgid ""
+"Use this argument to search users by email address, URL, ID, username or "
+"display_name. More info: "
+msgstr ""
+"Verwenden Sie dieses Argument, um Benutzer nach E-Mail-Adresse, URL, ID, "
+"Benutzername oder display_name zu suchen. Mehr Informationen: "
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:19
+msgid "Click here"
+msgstr "Klicken Sie hier"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:61
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:283
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:289
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:295
+msgid "Button"
+msgstr "Schaltfläche"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:64
+msgid "Add a button with link"
+msgstr "Eine Schaltfläche mit Link hinzufügen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:70
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:119
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:165
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:246
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:105
+msgid "Text"
+msgstr "Text"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:81
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:116
+msgid "Link target"
+msgstr "Link-Ziel"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:84
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:200
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:139
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:196
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:300
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:119
+msgid "Same window"
+msgstr "Gleiches Fenster"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:85
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:201
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:140
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:197
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:301
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:120
+msgid "New window"
+msgstr "Neues Fenster"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:90
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:131
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:211
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:194
+#: inc/ttgcore-setup/theme-functions/theme-function-spacer.php:54
+msgid "Size"
+msgstr "Größe"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:93
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:103
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:115
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:142
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:209
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:125
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:238
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:323
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:199
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:139
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:150
+msgid "Default"
+msgstr "Standard"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:94
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:74
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:85
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:200
+msgid "Large"
+msgstr "Groß"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:100
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:120
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:206
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:136
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:155
+msgid "Button style"
+msgstr "Schaltflächen-Stil"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:104
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:210
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:140
+msgid "Primary"
+msgstr "Primär"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:105
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:141
+msgid "White"
+msgstr "Weiß"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:107
+msgid "Text only"
+msgstr "Nur Text"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:112
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:148
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:147
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:116
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:153
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:151
+msgid "Left"
+msgstr "Links"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-button.php:117
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:152
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:20
+#, fuzzy
+msgid "Caption Here"
+msgstr "Bildunterschrift hier"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:126
+msgid "Animation"
+msgstr "Animation"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:136
+msgid "XS"
+msgstr "Xs"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:137
+msgid "S"
+msgstr "S"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:138
+msgid "M"
+msgstr "M"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:139
+msgid "L"
+msgstr "L"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:140
+msgid "XL"
+msgstr "XL"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:141
+msgid "XXL"
+msgstr "XXL"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:142
+#, fuzzy
+msgid "XXXL"
+msgstr "Xxxl"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-caption.php:144
+msgid "Button size"
+msgstr "Schaltflächengröße"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:128
+msgid "Card horizontal"
+msgstr "Karte horizontal"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:139
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:143
+msgid "Invert columns"
+msgstr "Spalten umkehren"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:148
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:150
+msgid "Header image"
+msgstr "Kopfzeilen-Bild"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:149
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:151
+msgid "Squared, 370px"
+msgstr "Quadratisch, 370px"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:175
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:120
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:171
+msgid "Background image opacity"
+msgstr "Deckkraft des Hindergrundbildes"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:179
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:124
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:175
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:197
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:86
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:247
+msgid "Full"
+msgstr "Voll"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:180
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:125
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:176
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:248
+msgid "Half"
+msgstr "Hälfte"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:181
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:126
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:177
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:249
+msgid "Low"
+msgstr "Niedrig"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:187
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:187
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:207
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:285
+msgid "Button text"
+msgstr "Schaltflächen-Text"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-horizontal.php:197
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:136
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:193
+msgid "Target"
+msgstr "Ziel"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:101
+msgid "Card icon"
+msgstr "Karten-Symbol"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:187
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:396
+msgid "Icon library"
+msgstr "Symbolbibliothek"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:193
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:402
+msgid "Select icon library."
+msgstr "Symbol Bibliothek auswählen."
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards-mini.php:215
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:426
+msgid "Select icon from library."
+msgstr "Symbol aus Bibliothek wählen."
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:112
+msgid "Cards with link"
+msgstr "Karten mit Link"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:121
+msgid "Format"
+msgstr "Format"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:126
+msgid "Long"
+msgstr "Lange"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:131
+msgid "Order"
+msgstr "Bestellung"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:135
+msgid "Image + Text"
+msgstr "Bild + Text"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:136
+msgid "Text + Image"
+msgstr "Text + Bild"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:145
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:228
+#: template-parts/post/issticky.php:13
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-cards.php:188
+msgid "Optional"
+msgstr "Optional"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:20
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:174
+msgid "Posts"
+msgstr "Beiträge"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:158
+msgid "Categories grid"
+msgstr "Kategorien-Gitter"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:161
+msgid "Display a grid of categories"
+msgstr "Ein Gitter von Kategorien anzeigen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:166
+msgid "Max amount"
+msgstr "Maximaler Betrag"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:172
+msgid "Label for posts count"
+msgstr "Etikett für die Anzahl der Beiträge"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:178
+msgid "Hide empty categories"
+msgstr "Leere Kategorien ausblenden"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:182
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:193
+msgid "No"
+msgstr "Nein"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:183
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:194
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:189
+msgid "Display sub-categories"
+msgstr "Unterkategorien anzeigen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:202
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:291
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:162
+msgid "Columns desktop"
+msgstr "Spalten-Desktop"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:211
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:304
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:175
+msgid "Columns medium screen"
+msgstr "Spalten mittlerer Bildschirm"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:221
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:225
+msgid "Category"
+msgstr "Kategorie"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:226
+msgid "Post tag"
+msgstr "Post-Tag"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:228
+msgid "WooCommerce categories"
+msgstr "WooCommerce Kategorien"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:229
+msgid "WooCommerce tags"
+msgstr "WooCommerce-Tags"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:239
+msgid "Include by id, comma separated"
+msgstr "Durch id einschließen, durch Komma getrennt"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:245
+msgid "Exclude by id, comma separated"
+msgstr "Durch id ausschließen, durch Komma getrennt"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:251
+msgid "Exclude entire tree by id, comma separated"
+msgstr "Gesamten Baum durch id ausschließen, durch Komma getrennt"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-category-grid.php:256
+msgid "Child of (ID)"
+msgstr "Kind von (ID)"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:33
+#: inc/ttgcore-setup/theme-functions/theme-function-event-program.php:30
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:28
+msgid "No ID selected"
+msgstr "Keine ID ausgewählt"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:37
+#: inc/ttgcore-setup/theme-functions/theme-function-event-program.php:35
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:33
+msgid "Invalid ID"
+msgstr "Ungültige ID"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:111
+msgid "Days"
+msgstr "Tage"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:112
+msgid "Hours"
+msgstr "Stunden"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:113
+msgid "Minutes"
+msgstr "Minuten"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:114
+msgid "Seconds"
+msgstr "Sekunden"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:115
+msgid "Milliseconds"
+msgstr "Millisekunden"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:119
+msgctxt "Letter label for days"
+msgid "D"
+msgstr "D"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:120
+msgctxt "Letter label for hours"
+msgid "H"
+msgstr "H"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:121
+msgctxt "Letter label for minutes"
+msgid "M"
+msgstr "M"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:122
+msgctxt "Letter label for seconds"
+msgid "S"
+msgstr "S"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:123
+msgctxt "Letter label for milliseconds"
+msgid "MS"
+msgstr "Ms"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:166
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:177
+msgid "Countdown"
+msgstr "Countdown"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:169
+msgid "Show only a countdown"
+msgstr "Nur einen Countdown anzeigen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:191
+msgid "Labels"
+msgstr "Beschriftungen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:196
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:198
+msgid "Inline"
+msgstr "Inline"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:203
+msgid "Show milliseconds"
+msgstr "Millisekunden anzeigen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:221
+msgid "Align"
+msgstr "Ausrichten"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:225
+msgid "inline"
+msgstr "Inline"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:226
+msgid "center"
+msgstr "zentriert"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:227
+msgid "left"
+msgstr "links"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:228
+msgid "right"
+msgstr "rechts"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:233
+msgid "Style"
+msgstr "Stil"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:239
+msgid "Bricks"
+msgstr "Ziegel"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:240
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:252
+msgid "Borders"
+msgstr "Rahmen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:257
+msgid "Borders width"
+msgstr "Randbreiten"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-countdown.php:270
+msgid "Numbers background"
+msgstr "Zahlen hintergrund"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:29
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:209
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:136
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:134
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:103
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:89
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:167
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:113
+#: inc/ttgcore-setup/theme-functions/theme-function-post-inline.php:81
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list-horizontal.php:77
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list-wide.php:77
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list.php:79
+#: inc/ttgcore-setup/theme-functions/theme-function-post-mosaic.php:81
+#: inc/ttgcore-setup/theme-functions/theme-function-post-slider.php:127
+msgid "Sorry, there is nothing for the moment."
+msgstr "Leider gibt es im Moment nichts zum anzeigen."
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:164
+msgid "Events featured"
+msgstr "Vorgestellte Veranstaltungen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:167
+msgid "List of events with featured design"
+msgstr "Liste der Veranstaltungen mit vorgestelltem Design"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:172
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:168
+msgid "Hide old events"
+msgstr "Alte Veranstaltungen ausblenden"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:213
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:187
+msgid "Filter by event type (slug)"
+msgstr "Nach Ereignistyp (Slug) filtern"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:214
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:188
+msgid "Instert the slug of the event type to filter the results"
+msgstr ""
+"Installieren Sie den Eintrag des Veranstaltungstyps, um die Ergebnisse zu "
+"filtern"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-featured.php:220
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:194
+msgid "Number of items to skip in the database query"
+msgstr "Anzahl der in der Datenbankabfrage zu überspringenden Elemente"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:160
+msgid "Events list"
+msgstr "Veranstaltungsliste"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:163
+msgid "List of events"
+msgstr "Liste aller Veranstaltungen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-list.php:174
+msgid "ID, comma separated list (123,345,7638)"
+msgstr "ID, durch Kommata getrennte Liste (123.345.7638)"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-program.php:57
+#, fuzzy
+msgid "This event currently has no program"
+msgstr "Diese Veranstaltung hat derzeit kein Programm"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-program.php:84
+#, fuzzy
+msgid "Events program"
+msgstr "Veranstaltungsprogramm"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-event-program.php:87
+#, fuzzy
+msgid "Display full program of an event"
+msgstr "Vollständiges Programm einer Veranstaltung anzeigen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-featured-author.php:70
+msgid "Featured author"
+msgstr "Empfohlener Autor"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-featured-author.php:73
+msgid "Display a single featured author"
+msgstr "Einen einzelnen vorgestellten Autor anzeigen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-featured-author.php:78
+msgid "User ID"
+msgstr "Benutzer ID"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-featured-author.php:80
+msgid "If empty, the author with most posts will be used."
+msgstr "Falls leer, wird der Autor mit den meisten Beiträgen verwendet."
+
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:54
+msgid "Gallery"
+msgstr "Galerie"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:66
+msgid "Image size"
+msgstr "Bildgröße"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:70
+msgid "Squared small"
+msgstr "Quadratisch klein"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:71
+msgid "Squared medium"
+msgstr "Quadratisch Medium"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:73
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:84
+msgid "Medium"
+msgstr "Mittel"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:76
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:88
+#, fuzzy
+msgid "Choose the post template for the items"
+msgstr "Wählen Sie die Beitragsvorlage für die Elemente aus"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-gallery.php:80
+msgid "Linked image size"
+msgstr "Verknüpfte Bildgröße"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-herolist.php:58
+msgid "Hero List"
+msgstr "Heldenliste"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-herolist.php:61
+msgid "Title with bullet list"
+msgstr "Titel mit Aufzählung"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-herolist.php:72
+msgid "Enter item content"
+msgstr "Artikelinhalt eingeben"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-internalmenu.php:50
+#, fuzzy
+msgid "Internal menu"
+msgstr "Internes Menü"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-internalmenu.php:53
+#, fuzzy
+msgid "Display the internal menu. Set links using meta fields."
+msgstr ""
+"Zeigen Sie das interne Menü an. Legen Sie Links mithilfe von Metafeldern "
+"fest."
+
+#: inc/ttgcore-setup/theme-functions/theme-function-internalmenu.php:61
+#, fuzzy
+msgid ""
+"Add an extra class for CSS styling. Use the custom fields under the content "
+"to add internal menu items."
+msgstr ""
+"Fügen Sie eine zusätzliche Klasse für css-Styling hinzu. Verwenden Sie die "
+"benutzerdefinierten Felder unter dem Inhalt, um interne Menüelemente "
+"hinzuzufügen."
+
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:127
+msgid "Places grid"
+msgstr "Orte-Raster"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:130
+msgid "List of venues"
+msgstr "Liste der Veranstaltungsorte"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:136
+msgid "Places by ID"
+msgstr "Orte nach ID"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:200
+msgid "Menu order"
+msgstr "Menüreihenfolge"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:289
+#: inc/ttgcore-setup/theme-functions/theme-function-places-grid.php:302
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:160
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:173
+msgid "Grid design"
+msgstr "Grid-DesigGitter-Designn"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:109
+#, fuzzy
+msgid "Post cards grid"
+msgstr "Postkartenraster"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:112
+msgid "Cards with background image"
+msgstr "Karten mit Hintergrundbild"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:118
+msgid "Columns number"
+msgstr "Spaltenanzahl"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-cards.php:131
+msgid "Columns tablet"
+msgstr "Spalten-Tablet"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:191
+msgid "Post carousel"
+msgstr "Postkarussell"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:200
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:147
+msgid "Post type"
+msgstr "Beitragstyp"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-carousel.php:203
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:150
+msgid "Post"
+msgstr "Beitrag"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:137
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:140
+msgid "Post grid"
+msgstr "Gitter für Pfosten"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-grid.php:153
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:77
+#: woocommerce/checkout/form-pay.php:27
+msgid "Product"
+msgstr "Produkt"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-hero.php:90
+#: inc/ttgcore-setup/theme-functions/theme-function-post-hero.php:93
+msgid "Post hero"
+msgstr "Beitragsheld"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-inline.php:103
+msgid "Post list - inline"
+msgstr "Beitragsliste - inline"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-inline.php:106
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list.php:106
+msgid "List of posts with classic design"
+msgstr "Liste der Beiträge mit klassischem Design"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list-horizontal.php:97
+msgid "Post list - Horizontal"
+msgstr "Postliste - Horizontal"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list-horizontal.php:100
+msgid "List of posts with horizontal design"
+msgstr "Liste der Beiträge mit horizontalem Design"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list-wide.php:97
+#, fuzzy
+msgid "Post list - wide"
+msgstr "Postliste - breit"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list-wide.php:100
+#, fuzzy
+msgid "List of posts with wide design"
+msgstr "Liste der Beiträge mit breitem Design"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-list.php:103
+#, fuzzy
+msgid "Post list - large"
+msgstr "Post-Liste groß"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-mosaic.php:105
+msgid "Post mosaic"
+msgstr "Beitrags-Mosaik"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-mosaic.php:108
+msgid "Full width mosaic of posts"
+msgstr "Vollbreite Mosaik von Pfosten"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-slider.php:152
+#, fuzzy
+msgid "Post slider"
+msgstr "Schieberegler \"Posten\""
+
+#: inc/ttgcore-setup/theme-functions/theme-function-post-slider.php:155
+#, fuzzy
+msgid "Responsive slideshow"
+msgstr "Responsive Diashow"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:206
+msgid "Pricing table"
+msgstr "Preistabelle"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:209
+msgid "Create a pricing table column"
+msgstr "Eine Preistabellenspalte erstellen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:233
+msgid "Footer text"
+msgstr "Fußzeilen Text"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:243
+msgid "Background opacity"
+msgstr "Hintergrund-Durchsichtigkeit"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:256
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:258
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:262
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:268
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:274
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr "Preis"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:264
+msgid "Price cents"
+msgstr "Preis-Cent"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:270
+msgid "Coin symbol (eg. $)"
+msgstr "Münzsymbol (z.B. $)"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:276
+msgid "Price details (for instance MONTHLY)"
+msgstr "Preisdetails (z.B. MONATLICHE)"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:291
+msgid "Button link"
+msgstr "Schaltfläche Link"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:297
+msgid "Button target"
+msgstr "Schaltflächen-Ziel"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:306
+msgid "Features"
+msgstr "Funktionen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:314
+msgid "Features item"
+msgstr "Funktionselement"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:324
+msgid "check"
+msgstr "überprüfen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:325
+msgid "close"
+msgstr "schließen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:326
+msgid "add"
+msgstr "hinzufügen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:327
+msgid "chevron_right"
+msgstr "chevron_right"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:332
+msgid "Status"
+msgstr "Status"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:333
+msgid "Is this feature included in the plan?"
+msgstr "Ist diese Funktion im Plan enthalten?"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:337
+msgid "Included"
+msgstr "Enthalten"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-pricing-table.php:338
+msgid "Not included"
+msgstr "Nicht enthalten"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:40
+msgid "No schedules selected"
+msgstr "Keine Zeitpläne ausgewählt"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:52
+#, fuzzy
+msgid "Missing schedule functionality in this theme"
+msgstr "Fehlende Zeitplanfunktionalität in diesem Design"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:112
+#, fuzzy
+msgid "This schedule has is still empty"
+msgstr "Dieser Zeitplan ist noch leer"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:148
+#, fuzzy
+msgid "Display a single schedule"
+msgstr "Anzeigen eines einzelnen Zeitplans"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-schedule.php:153
+#, fuzzy
+msgid "Choose schedule by title"
+msgstr "Zeitplan nach Titel auswählen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:172
+msgid "Section caption"
+msgstr "Überschrift des Abschnitts"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:175
+msgid "3 Lines caption with intro text"
+msgstr "3 Zeilentitel mit Einleitungstext"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:201
+msgid "Extra large"
+msgstr "Extragroß"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-section-caption.php:231
+msgid "Effect style"
+msgstr "Effektstil"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:58
+msgid "Android"
+msgstr "Android"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:59
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:60
+msgid "Beatport"
+msgstr "Beatport"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:61
+msgid "Blogger"
+msgstr "Blogger"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:62
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:63
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:64
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:65
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:66
+msgid "Itunes"
+msgstr "Itunes"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:67
+msgid "Juno"
+msgstr "Juno"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:68
+msgid "Kuvo"
+msgstr "Kuvo"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:69
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:70
+msgid "Trackitdown"
+msgstr "Trackitdown"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:71
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:72
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:73
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:74
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:75
+msgid "Reverbnation"
+msgstr "Reverbnation"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:76
+msgid "Resident Advisor"
+msgstr "Gebietsansässiger Berater"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:77
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:78
+msgid "Myspace"
+msgstr "Myspace"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:79
+msgid "Mixcloud"
+msgstr "Mixcloud"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:80
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:81
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:82
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:83
+msgid "VK.com"
+msgstr "VK.com"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:84
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:85
+msgid "Whatsapp"
+msgstr "WhatsApp"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:96
+msgid "Social icons"
+msgstr "Soziale Symbole"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:99
+msgid "Add a social link"
+msgstr "Einen sozialen Link hinzufügen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-socialicons.php:131
+msgid "Choose social icon"
+msgstr "Soziales Symbol wählen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-spacer.php:46
+msgid "Responsive spacer"
+msgstr "Ansprechender Abstandhalter"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-spacer.php:49
+msgid "Spacer"
+msgstr "Abstand"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-spacer.php:59
+msgid "Empty spacer separator based on responsive sizes"
+msgstr ""
+"Leere Abstandshalter-Trennvorrichtung auf der Grundlage von Ansprechgrößen"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-sponsors.php:41
+msgid "Sponsor"
+msgstr "Sponsor"
+
+#: inc/ttgcore-setup/theme-functions/theme-function-sponsors.php:66
+#, fuzzy
+msgid "Tile gallery"
+msgstr "Kachelgalerie"
+
+#: page-sidebar.php:40 page-wide.php:38 template-parts/page/page.php:40
+#: template-parts/pageheader/nav-archive.php:21
+#: template-parts/single/single-full.php:24
+#: template-parts/single/single-sidebar.php:26
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: page-sidebar.php:41 page-wide.php:39 template-parts/page/page.php:41
+#: template-parts/pageheader/nav-archive.php:20
+#: template-parts/single/single-full.php:25
+#: template-parts/single/single-sidebar.php:27
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: searchform.php:11
+msgid "Search in this website"
+msgstr "Auf dieser Website suchen"
+
+#: template-parts/author/author-card.php:32
+#: template-parts/author/featured-author.php:42
+msgid "Avatar"
+msgstr "Avatar"
+
+#: template-parts/author/featured-author.php:54
+#: template-parts/pageheader/breadcrumb.php:106
+msgid "Author archive"
+msgstr "Autoren-Archiv"
+
+#: template-parts/header/search.php:14 template-parts/header/search.php:15
+msgid "Search"
+msgstr "Suche"
+
+#: template-parts/misc/evenz-countdown.php:29
+msgid "Coming soon"
+msgstr "Kommt bald"
+
+#: template-parts/misc/program.php:17
+msgid "Program"
+msgstr "Programm"
+
+#: template-parts/page/page.php:67 template-parts/single/single-full.php:99
+#: template-parts/single/single-sidebar.php:84
+msgid "Post comments"
+msgstr "Beitrags-Kommentare"
+
+#: template-parts/pageheader/breadcrumb.php:28
+msgid "Home"
+msgstr "Startseite"
+
+#: template-parts/pageheader/breadcrumb.php:59
+msgid "Podcasts"
+msgstr "Podcasts"
+
+#: template-parts/pageheader/breadcrumb.php:94
+#: template-parts/pageheader/breadcrumb.php:98
+#: template-parts/pageheader/breadcrumb.php:102
+msgid "Archive for"
+msgstr "Archiv für"
+
+#: template-parts/pageheader/breadcrumb.php:111
+msgid "Blog archive"
+msgstr "Blog-Archiv"
+
+#: template-parts/pageheader/meta-archive.php:23
+msgid "1 Result"
+msgstr "1 Ergebnis"
+
+#: template-parts/pageheader/meta-archive.php:27
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: template-parts/pageheader/meta-archive.php:41
+msgid "Page"
+msgstr "Seite"
+
+#: template-parts/pageheader/meta-archive.php:43
+msgid "of"
+msgstr "von"
+
+#: template-parts/pageheader/nav-post.php:50
+msgid "Prev"
+msgstr "Zurück"
+
+#: template-parts/pageheader/nav-post.php:55
+#: template-parts/pagination/part-pagination.php:31
+#: woocommerce/loop/pagination.php:48
+msgid "Next"
+msgstr "Weiter"
+
+#: template-parts/pageheader/pageheader-404.php:13
+msgid "404"
+msgstr "404"
+
+#: template-parts/pageheader/pageheader-404.php:14
+msgid "Page Not Found"
+msgstr "Seite nicht gefunden"
+
+#: template-parts/pageheader/pageheader-404.php:18
+msgid "Return to the homepage"
+msgstr "Zurück zur Homepage"
+
+#: template-parts/pagination/part-pagination.php:30
+#: woocommerce/loop/pagination.php:47
+msgid "Previous"
+msgstr "Zurück"
+
+#: template-parts/post/post-evenz_event.php:58
+msgid "More info"
+msgstr "Mehr Info"
+
+#: template-parts/post/post-horizontal.php:63
+#: template-parts/post/post-horizontal.php:78
+#: template-parts/post/post-place.php:56
+#: template-parts/post/post-vertical.php:72 template-parts/post/post.php:70
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: template-parts/single/part-author.php:24
+msgid "About the author"
+msgstr "Über den Autor"
+
+#: template-parts/single/part-event-buylinks.php:35
+msgid "Book event"
+msgstr "Veranstaltung buchen"
+
+#: template-parts/single/part-event-googlecalendar.php:35
+msgid "Add to Calendar"
+msgstr "Zum Kalender hinzufügen"
+
+#: template-parts/single/part-event-table.php:39
+msgid "Details"
+msgstr "Details"
+
+#: template-parts/single/part-event-table.php:48
+msgid "Begin"
+msgstr "Anfang"
+
+#: template-parts/single/part-event-table.php:54
+#: template-parts/single/part-event-table.php:71
+msgid "H "
+msgstr "H "
+
+#: template-parts/single/part-place-table.php:18
+msgid "Country"
+msgstr "Land"
+
+#: template-parts/single/part-place-table.php:20
+msgid "City"
+msgstr "Stadt"
+
+#: template-parts/single/part-previous.php:37
+msgid "Previous episode"
+msgstr "Vorherige Episode"
+
+#: template-parts/single/part-previous.php:39
+msgid "Previous post"
+msgstr "Vorheriger Beitrag"
+
+#: template-parts/single/part-related-events.php:105
+#, fuzzy
+msgid "Related events"
+msgstr "Ähnliche Veranstaltungen"
+
+#: template-parts/single/part-related.php:77
+msgid "Similar episodes"
+msgstr "Ähnliche Episoden"
+
+#: template-parts/single/part-related.php:79
+msgid "Similar posts"
+msgstr "Ähnliche Beiträge"
+
+#: template-parts/single/protected.php:15
+msgid "This post is protected, please insert the password"
+msgstr "Dieser Beitrag ist geschützt, bitte geben Sie das Passwort ein"
+
+#: template-parts/single/single-full.php:36
+#: template-parts/single/single-sidebar.php:37
+msgid "Written by:  "
+msgstr "Geschrieben von: "
+
+#: template-parts/slider/slider__item.php:44
+#, fuzzy
+msgid "Read All"
+msgstr "Alles lesen"
+
+#: vc_templates/pagebuilder-setup.php:60
+msgid "Container box"
+msgstr "Containerbox"
+
+#: vc_templates/pagebuilder-setup.php:63
+msgid "None"
+msgstr "Keiner"
+
+#: vc_templates/pagebuilder-setup.php:64
+msgid "Wide"
+msgstr "Breite"
+
+#: vc_templates/pagebuilder-setup.php:65
+msgid "Narrow"
+msgstr "Schmal"
+
+#: vc_templates/pagebuilder-setup.php:67
+msgid "Wide: max width 1400px. Narrow: max width 1170px."
+msgstr "Breite: max. Breite 1400px. Schmal: max. Breite 1170px."
+
+#: vc_templates/pagebuilder-setup.php:81
+msgid "Section vertical paddings"
+msgstr "Abschnitt vertikale Polsterungen"
+
+#: vc_templates/pagebuilder-setup.php:83
+msgid "Add vertical paddings for section separator"
+msgstr "Vertikale Füllungen für Abschnittstrennzeichen hinzufügen"
+
+#: vc_templates/pagebuilder-setup.php:91 vc_templates/pagebuilder-setup.php:133
+msgid "Negative colors"
+msgstr "Negative Farben"
+
+#: vc_templates/pagebuilder-setup.php:93 vc_templates/pagebuilder-setup.php:135
+msgid "Force white texts"
+msgstr "Weiße Texte forcieren"
+
+#: vc_templates/pagebuilder-setup.php:104
+msgid "Add waves effect to the background"
+msgstr "Welleneffekt zum Hintergrund hinzufügen"
+
+#: vc_templates/pagebuilder-setup.php:113
+msgid "Waves color"
+msgstr "Wellenfarbe"
+
+#: vc_templates/pagebuilder-setup.php:123
+msgid "Add container"
+msgstr "Container hinzufügen"
+
+#: vc_templates/pagebuilder-setup.php:125
+msgid "Add a container box to the content to limit width"
+msgstr "Eine Containerbox zum Inhalt hinzufügen, um die Breite zu begrenzen"
+
+#: vc_templates/pagebuilder-setup.php:143
+msgid "Sticky"
+msgstr "Klebrig"
+
+#: vc_templates/pagebuilder-setup.php:145
+msgid "Make this one column sticky on scroll."
+msgstr "Machen Sie diese eine Spalte beim Scrollen fest."
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart totals"
+msgstr "Warenkorb-Summen"
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr "Versand"
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(geschätzt für %s)"
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart-totals.php:93
+msgid "Total"
+msgstr "Gesamt"
+
+#: woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr "Diesen Artikel entfernen"
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr "Verfügbar auf Rückbestellung"
+
+#: woocommerce/cart/cart.php:143
+msgid "Coupon:"
+msgstr "Gutschein:"
+
+#: woocommerce/cart/cart.php:143 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr "Gutscheincode"
+
+#: woocommerce/cart/cart.php:143 woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr "Gutschein anwenden"
+
+#: woocommerce/cart/cart.php:148
+msgid "Update cart"
+msgstr "Warenkorb aktualisieren"
+
+#: woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart. Please go back to the "
+"cart page and resolve these issues before checking out."
+msgstr ""
+"Es gibt einige Probleme mit den Artikeln in Ihrem Warenkorb. Bitte gehen Sie "
+"zurück zur Warenkorb-Seite und lösen Sie diese Probleme, bevor Sie zur Kasse "
+"gehen."
+
+#: woocommerce/checkout/cart-errors.php:25
+msgid "Return to cart"
+msgstr "Zurück zum Warenkorb"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr "Haben Sie einen Gutschein?"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr "Klicken Sie hier, um Ihren Gutschein-Code einzugeben"
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr "Wenn Sie einen Gutscheincode haben, geben Sie ihn bitte hier ein."
+
+#: woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr "Menge"
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr "Summen"
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Es tut uns leid, es scheint, dass es für Ihren Standort keine verfügbaren "
+"Zahlungsmethoden gibt. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen "
+"oder alternative Vereinbarungen treffen möchten."
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Es tut mir leid, es scheint, dass es für Ihren Staat keine verfügbaren "
+"Zahlungsmethoden gibt. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen "
+"oder alternative Vereinbarungen treffen möchten."
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Bitte geben Sie oben Ihre Daten ein, um die verfügbaren Zahlungsmethoden "
+"anzuzeigen."
+
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"Da Ihr Browser JavaScript nicht unterstützt oder es deaktiviert ist, stellen "
+"Sie bitte sicher, dass Sie auf die Schaltfläche %1$sUpdate Totals%2$s "
+"klicken, bevor Sie Ihre Bestellung absenden. Sollte dies nicht der Fall "
+"sein, kann es sein, dass Ihnen mehr als der oben angegebene Betrag in "
+"Rechnung gestellt wird."
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr "Endsummen aktualisieren"
+
+#: woocommerce/checkout/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr "Weiter zur Kasse"
+
+#: woocommerce/checkout/thankyou.php:29
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"Leider kann Ihre Bestellung nicht bearbeitet werden, da die Bank/Händler, "
+"von der Ihre Bestellung stammt, Ihre Transaktion abgelehnt hat. Bitte "
+"versuchen Sie Ihren Kauf erneut."
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "Pay"
+msgstr "Bezahlen"
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "My account"
+msgstr "Mein Konto"
+
+#: woocommerce/checkout/thankyou.php:40 woocommerce/checkout/thankyou.php:82
+msgid "Thank you. Your order has been received."
+msgstr "Vielen Dank. Ihre Bestellung ist eingegangen."
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Order number:"
+msgstr "Bestellnummer:"
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Date:"
+msgstr "Datum:"
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: woocommerce/checkout/thankyou.php:62
+msgid "Total:"
+msgstr "Gesamt:"
+
+#: woocommerce/checkout/thankyou.php:68
+msgid "Payment method:"
+msgstr "Zahlungsmethode:"
+
+#: woocommerce/content-single-product.php:46
+msgid "Leave your rating"
+msgstr "Hinterlassen Sie Ihre Bewertung"
+
+#: woocommerce/custom-product-fields.php:15
+msgid "Custom product template"
+msgstr "Benutzerdefinierte Produktvorlage"
+
+#: woocommerce/custom-product-fields.php:16
+msgid "Override customizer settings for this product"
+msgstr "Einstellungen des Benutzers für dieses Produkt überschreiben"
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "Dieses Produkt ist zurzeit ausverkauft und nicht verfügbar."
+
+#: woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Clear"
+msgstr "Löschen"
+
+#: woocommerce/single-product/add-to-cart/variation.php:23
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Es tut uns leid, dieses Produkt ist nicht verfügbar. Bitte wählen Sie eine "
+"andere Kombination."
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s Kundenbewertung"
+msgstr[1] "%s Kundenbewertungen"
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "Ähnliche Produkte"
+
+#: woocommerce/woocommerce-helpers.php:49
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce Sidebar"
+
+#: woocommerce/woocommerce-helpers.php:64
+msgid "View your shopping cart"
+msgstr "Ihren Warenkorb einsehen"
+
+#: woocommerce/woocommerce-helpers.php:284
+msgid "On Sale"
+msgstr "Im Angebot"
+
+#: woocommerce/woocommerce-helpers.php:329
+msgid "Search products"
+msgstr "Produkte suchen"
