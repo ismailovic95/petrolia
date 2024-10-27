@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Education Home were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://petroliama-local.com
+Data file = /var/www/html/web/wp-content/uploads/2024/10/demo-content-import-file_2024-10-26__13-38-04.xml
+Widget file = /var/www/html/web/wp-content/uploads/2024/10/demo-widgets-import-file_2024-10-26__13-38-04.json
+Customizer file = /var/www/html/web/wp-content/uploads/2024/10/demo-customizer-import-file_2024-10-26__13-38-04.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog widget area : 
+
+Rechercher - No Title - Imported
+Archives - No Title - Imported
+Catégories - Categories - Imported
+Nuage d’étiquettes - Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

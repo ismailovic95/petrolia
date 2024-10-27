@@ -7,8 +7,7 @@
 # you can delete this whole section/until Configuration.
 
 # Configuration
-wp-config.php
-
+.DS_Store
 # Example themes
 /wp-content/themes/twenty*/
 
