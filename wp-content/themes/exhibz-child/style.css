@@ -47,3 +47,27 @@
         margin-bottom: 30px;
     }
 }
+.elementor-widget-counter.shape1 .elementor-counter-number-wrapper{
+    padding: 1px 0px 0px 0px;
+    background-image: url(./assets/images/shape/line-shape-1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+.elementor-widget-counter.shape2 .elementor-counter-number-wrapper{
+    padding: 1px 0px 0px 0px;
+    background-image: url(./assets/images/shape/line-shape-2.png);   
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+.elementor-widget-counter.shape3 .elementor-counter-number-wrapper{
+    padding: 1px 0px 0px 0px;
+    background-image: url(./assets/images/shape/line-shape-3.png);    
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+.elementor-widget-counter.shape4 .elementor-counter-number-wrapper{
+    padding: 1px 0px 0px 0px;
+    background-image: url(./assets/images/shape/line-shape-4.png);    
+    background-position: top center;
+    background-repeat: no-repeat;
+}

@@ -42,7 +42,7 @@ class EventReminder implements HookableInterface {
 
         foreach ( $reminder_time as $time ) {
             $timestamp = '';
-            $duration  = $time['duration-time'];
+            $duration  = intval( $time['duration-time'] );
 
             switch ( $time['custom_duration_type'] ) {
             case 'min':

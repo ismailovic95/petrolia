@@ -9,7 +9,7 @@ defined( 'ABSPATH' ) || exit;
  * Plugin Name:       Eventin
  * Plugin URI:        https://themewinter.com/eventin/
  * Description:       Simple and Easy to use Event Management Solution
- * Version:           4.0.12
+ * Version:           4.0.13
  * Author:            Themewinter
  * Author URI:        https://themewinter.com/
  * License:           GPL-2.0+
@@ -40,7 +40,7 @@ class Wpeventin {
 	 * @var string The plugin version.
 	 */
 	public static function version() {
-		return '4.0.12';
+		return '4.0.13';
 	}
 
 	/**

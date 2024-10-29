@@ -3,7 +3,7 @@ Contributors: themewinter, ataurr, abrasel600, rezakhan995
 Tags: event, calendar, tickets, organizer, schedule
 Requires at least: 5.2
 Tested up to: 6.6.2
-Stable tag: 4.0.12
+Stable tag: 4.0.13
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -280,8 +280,15 @@ Yes, Eventin offers a unique QR scanner solution to scan all the single/bulk tic
 
 
 == Changelog ==
+= 4.0.13 ( October 28, 2024 )=
+Fix : Attendee and ticket name updated on order email
+Fix : Clone event doesn’t reset sold tickets
+Fix : Events details template load on oxygen builder
+Fix : Event checkout page load issue on oxygen builder
+Fix : Event price and currency formating was incorrect
+Fix : Woocommerce payment redirect to success component while payment failed
 
-= 4.0.12 ( October 26, 2024 )=
+= 4.0.12 ( October 22, 2024 )=
 New : Create customer after booking create
 New : Create customer after attendee create
 New : Create booking after manually attendee create
@@ -311,8 +318,6 @@ Fix : Issue with upcoming events display resolved in the Events Calendar widget.
 Fix : Header and footer style loading issue resolved on the speaker template.
 Fix : Settings page layout issue fixed when WP notice is enabled.
 Fix : Ticket print issue resolved.
-Fix : Divi builder compatibility issue
-Fix : Oxygen Builder compatibility issue
 
 
 = 4.0.11 ( October 02, 2024 )=

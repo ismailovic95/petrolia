@@ -651,7 +651,7 @@ class EventController extends WP_REST_Controller {
         $tags = $tags ? array_column( $tags, 'term_id' ) : [];
         $this->assign_tags( $clone_event->id, $tags );
 
-        do_action( 'eventin_event_after_clone', $clone_event->id );
+        do_action( 'eventin_event_after_clone', $clone_event );
 
         return rest_ensure_response( $response );
     }
@@ -728,6 +728,7 @@ class EventController extends WP_REST_Controller {
             'event_slug'              => $post->post_name,
             'description'             => $post->post_content,
             'excerpt'                 => $post->post_excerpt,
+            'excerpt_enable'          => get_post_meta( $id, 'excerpt_enable', true ),
             'schedule_type'           => get_post_meta( $id, 'etn_select_speaker_schedule_type', true ),
             'author'                  => $author,
             'categories'              => $categories,
@@ -1015,6 +1016,10 @@ class EventController extends WP_REST_Controller {
 
         if ( isset( $input_data['excerpt'] ) ) {
             $event_data['post_excerpt'] = $input_data['excerpt'];
+        }
+
+        if ( isset( $input_data['excerpt_enable'] ) ) {
+            $event_data['excerpt_enable'] = $input_data['excerpt_enable'];
         }
 
         if ( isset( $input_data['schedule_type'] ) ) {

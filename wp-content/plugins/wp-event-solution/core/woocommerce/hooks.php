@@ -262,10 +262,23 @@ class Hooks {
     public function redirect_success_page( $wc_order_id ) {
         $order_id = WC()->session->get('event_order_id');
 
-        if ( $order_id ) {
+        if ( ! $order_id ) {
+            return;
+        }
+
+        $order = wc_get_order( $wc_order_id );
+
+        $statuses = [ 'completed', 'processing' ];
+        
+        if ( $order && in_array( $order->get_status(), $statuses ) ) {
             $url = site_url( 'eventin-purchase/checkout/#/success' );
             update_post_meta( $wc_order_id, 'eventin_order_id', $order_id );
             WC()->session->__unset( 'event_order_id' );
+            wp_redirect($url);
+            exit;
+        } else {
+            $url = site_url( 'eventin-purchase/checkout/#/failed' );
+            // WC()->session->__unset( 'event_order_id' );
             wp_redirect($url);
             exit;
         }

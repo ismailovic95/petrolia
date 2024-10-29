@@ -77,7 +77,8 @@ class Event_Model extends Post_Model {
         'certificate_preference'            => '',
         '_virtual'                           => '',
         'event_logo_id'                      => '',
-        'event_banner_id'                   => '',         
+        'event_banner_id'                   => '',
+        'excerpt_enable'                    => false,         
     ];
 
     /**

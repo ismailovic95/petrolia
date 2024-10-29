@@ -60,6 +60,8 @@ class Hooks {
 
         add_action( 'eventin_event_updated', [ $this, 'update_seat_price' ] );
 
+        add_action( 'eventin_event_after_clone', [ $this, 'update_clone_event_sold_tickets' ] );
+
     }
 
     /**
@@ -640,5 +642,26 @@ class Hooks {
         $event->update( [
             'seat_plan' => $seats
         ] );
+    }
+
+    /**
+     * Update sold tickets on event clone
+     *
+     * @param   Event_Model  $event  [$event description]
+     *
+     * @return  void
+     */
+    public function update_clone_event_sold_tickets( $event ) {
+        $tickets = $event->etn_ticket_variations;
+
+        if ( is_array( $tickets ) ) {
+            foreach( $tickets as &$ticket ) {
+                $ticket['etn_sold_tickets'] = 0;
+            }
+        }
+        
+        $event->update([
+            'etn_ticket_variations' => $tickets
+        ]);
     }
 }

@@ -17,6 +17,7 @@
  *
  * @package WordPress
  */
+define('ALLOW_UNFILTERED_UPLOADS', true);
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */

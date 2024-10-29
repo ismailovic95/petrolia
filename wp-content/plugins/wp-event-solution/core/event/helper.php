@@ -107,11 +107,11 @@ class Helper {
      */
     
     public function display_event_location($single_event_id) {
-        $event_type = get_post_meta($single_event_id, 'event_type', true);
-        $etn_event_location = get_post_meta($single_event_id, 'etn_event_location', true);
+        $event_type = get_post_meta( $single_event_id, 'event_type', true );
+        $location 	= get_post_meta( $single_event_id, 'etn_event_location', true );
     
-        if ('offline' === $event_type && !empty($etn_event_location)) { 
-            return $etn_event_location['address'] ? $etn_event_location['address']: '';
+        if ( 'offline' === $event_type && ! empty( $location ) ) { 
+            return is_array( $location ) &&  ! empty( $location['address'] ) ? $location['address']: '';
         } else if ('online' === $event_type) {
             return $event_type;
         }

@@ -141,8 +141,8 @@
         <!-- Single Ticket Information -->
         <?php foreach( $order->get_attendees() as $attendee ): ?>
         <div>
-            <p style="margin: 8px 0px">Ticket name: <?php echo esc_html( $attendee['etn_name'] ); ?></p>
-            <p style="margin: 8px 0px">Attendee: <?php echo esc_html( $attendee['ticket_name'] ); ?></p>
+            <p style="margin: 8px 0px">Ticket name: <?php echo esc_html( $attendee['ticket_name'] ); ?></p>
+            <p style="margin: 8px 0px">Attendee: <?php echo esc_html( $attendee['etn_name'] ); ?></p>
             <div
                 style="
                 display: flex;

@@ -31,9 +31,11 @@ $data = [
     'etn_hide_seats_from_details' => etn_get_option( 'etn_hide_seats_from_details' ),
     'etn_primary_color'           => etn_get_option( 'etn_primary_color' ),
     'etn_secondary_color'         => etn_get_option( 'etn_secondary_color' ),
-    'currency_position'          => etn_get_option( 'currency_position' ),
-    'decimal_separator'          => etn_get_option( 'decimal_separator' ),
-    'decimals'                   => etn_get_option( 'decimals' ),
+    'decimal_separator'           => etn_get_decimal_separator(),
+    'thousand_separator'          => etn_get_thousand_separator(),
+    'decimals'                    => etn_get_decimals(),
+    'price_format'                => etn_get_price_format(),
+    'currency_position'           => etn_get_currency_position(),
 
 ];
 

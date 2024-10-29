@@ -3,8 +3,7 @@
 if( wp_is_block_theme() ){
     block_header_area();
     wp_head();
-}else{
-    wp_head();
+}else{ 
     get_header();
 }
 
@@ -19,7 +18,6 @@ wp_enqueue_script( 'etn-module-purchase');
         block_footer_area();
         wp_footer();
     }else{
-        wp_footer();
         get_footer();
     }
 ?>

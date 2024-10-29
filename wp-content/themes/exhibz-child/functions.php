@@ -11,12 +11,8 @@ function exhibz_child_enqueue_styles() {
  
 }
 
-function add_file_types_to_uploads($file_types){
-    $new_filetypes = array();
-    $new_filetypes['svg'] = 'image/svg+xml';
-    $new_filetypes['ico'] = 'image/x-icon';
-
-    $file_types = array_merge($file_types, $new_filetypes );
-    return $file_types;
+function add_custom_mime_types($mimes) {
+    $mimes['svg'] = 'image/svg+xml'; // Example to allow SVG files
+    return $mimes;
 }
-add_filter('upload_mimes', 'add_file_types_to_uploads');
+add_filter('upload_mimes', 'add_custom_mime_types');
